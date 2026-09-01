@@ -1,0 +1,201 @@
+OrganizationIdentifier,OrganizationFormalName,MonitoringLocationIdentifier,MonitoringLocationName,MonitoringLocationTypeName,MonitoringLocationDescriptionText,HUCEightDigitCode,DrainageAreaMeasure/MeasureValue,DrainageAreaMeasure/MeasureUnitCode,ContributingDrainageAreaMeasure/MeasureValue,ContributingDrainageAreaMeasure/MeasureUnitCode,LatitudeMeasure,LongitudeMeasure,SourceMapScaleNumeric,HorizontalAccuracyMeasure/MeasureValue,HorizontalAccuracyMeasure/MeasureUnitCode,HorizontalCollectionMethodName,HorizontalCoordinateReferenceSystemDatumName,VerticalMeasure/MeasureValue,VerticalMeasure/MeasureUnitCode,VerticalAccuracyMeasure/MeasureValue,VerticalAccuracyMeasure/MeasureUnitCode,VerticalCollectionMethodName,VerticalCoordinateReferenceSystemDatumName,CountryCode,StateCode,CountyCode,AquiferName,LocalAqfrName,FormationTypeText,AquiferTypeName,ConstructionDateText,WellDepthMeasure/MeasureValue,WellDepthMeasure/MeasureUnitCode,WellHoleDepthMeasure/MeasureValue,WellHoleDepthMeasure/MeasureUnitCode,ProviderName
+USGS-FL,USGS Florida Water Science Center,USGS-02358800,CHIPOLA RIVER AT OAKDALE FLA,Stream,,03130012,519.00,sq mi,,,30.71741584000000,-85.2002052000000,,1,seconds,Interpolated from MAP.,NAD83,50.86,feet,.1,feet,Level or other surveyed method.,NGVD29,US,12,063,,,,,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-02358900,DRY CREEK,Stream,,03130012,,,,,30.67463820000000,-85.2088154000000,,1,seconds,Interpolated from MAP.,NAD83,,,,,,,US,12,063,,,,,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-02358946,"MOCKINGBIRD RUN NEAR CYPRESS, FL",Stream,,03130012,0.58,sq mi,,,30.66158239000000,-85.1132575000000,24000,1,seconds,Interpolated from MAP.,NAD83,,,,,,,US,12,063,,,,,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-303557085095100,GROTTO SPRING,Spring,,03130012,,,,,30.59916667000000,-85.1641667000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-303738085095300,CHIPOLA RIVER AT PEACOCK BRIDGE,Spring,,03130012,,,,,30.62722220000000,-85.1647222000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-303924085094300,Roxy Creed  east of SR 71,Stream,,03130012,,,,,30.65666667000000,-85.1619444000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,,,,,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-303934085093600,SCHOOL BUS SPRING,Spring,,03130012,,,,,30.65944444000000,-85.1600000000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-303937085093700,ROCKY CREEK upst HOGPEN SPRING WAYPOINT 18,Spring,,03130012,,,,,30.66027778000000,-85.1602778000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-304030085123000,Dry Creek on Iron Bridge Road,Stream,,03130012,,,,,30.67500000000000,-85.2083333000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,,,,,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-304123085141000,DRY CREEK AT HWY 23 BRIDGE,Spring,,03130012,,,,,30.68972220000000,-85.2361111000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-304239085122400,SIMMS SPRING,Spring,,03130012,,,,,30.71083333000000,-85.2066667000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-304302085120000,CHIPOLA RIVER AT CR280A BRIDGE,Spring,,03130012,,,,,30.71722220000000,-85.2000000000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+USGS-FL,USGS Florida Water Science Center,USGS-304302085120001,SPRING AT HWY 280 BRIDGE,Spring,,03130012,,,,,30.71722220000000,-85.2000000000000,,1,seconds,Mapping grade GPS unit (handheld accuracy range 12 to 40 ft),NAD83,,,,,,,US,12,063,Floridan aquifer system,,Floridan Aquifer System,Unconfined single aquifer,,,,,,NWIS
+21FLBFA_WQX,"FL Dept of Environmental Protection , Bream Fisherman Assoc.",21FLBFA_WQX-31020011,CHIPOLA R W HWY #71,River/Stream,"SEGMENT 31.2AA      BODY OF WATER: RIVER  CHIPOLA                       
+CHIPOLA RIVER APPROX 1 MILE WEST OF HWY #71 AT OAKDALE  ON SR 280A      
+
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLBFA ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033191
+MINOR BASIN NAME: APALACHICOLA",03130012,,,,,30.7166667000,-85.2008333000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLBFA_WQX,"FL Dept of Environmental Protection , Bream Fisherman Assoc.",21FLBFA_WQX-31020028,CHIPOLA RIVER BELOW ROCKY CREEK,River/Stream,"SEGMENT 31.2AA      BODY OF WATER'RIVER  CHIPOLA                        
+CHIPOLA RIVER 50 YDS BELOW ROCKY CREEK APPROXIMATELY 1 MILE NORTH OF    
+HWY 278 BRIDGE                                                          
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLBFA ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033102
+MINOR BASIN NAME: APALACHICOLA",03130012,,,,,30.6482778000,-85.1788333000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLBFA_WQX,"FL Dept of Environmental Protection , Bream Fisherman Assoc.",21FLBFA_WQX-31020039,DRY CREEK CO.RD. 73 JACKSON CO.,River/Stream,"ECOREG 65G                                                              
+FREQUENTLY SAMPLED BY ""BFA"" BREAM FISHERMAN                             
+ASSOCIATION CONTACT FDER NWD L DONELAN                                  
+904 436 8300                                                            
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLBFA ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033102
+MINOR BASIN NAME: CHIPOLA RIVER",03130012,,,,,30.6944444000,-85.2388889000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLBRA,Biological Research Associates (Florida),21FLBRA-279-A,279 - Dry Creek - Bridge on Hwy 73,River/Stream,,03130012,,,,,30.6892870,-85.2361510,,,,GPS-Unspecified,WGS84,0,ft,,,,Unknown,US,12,063,,,,,,,,,,STORET
+21FLBRA,Biological Research Associates (Florida),21FLBRA-279-B,279 - Dry Creek - at end of Dry Creek Road,River/Stream,,03130012,,,,,30.6743600,-85.2087500,,,,GPS-Unspecified,WGS84,0,ft,,,,Unknown,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-10028,NWBSL1022,Lake,NWB-SL-1022 Unnamed Lake,03130012,,,,,30.6394400000,-85.1744700000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-10044,NWBSL1021,Lake,NWB-SL-1021,03130012,,,,,30.6517740000,-85.1708190000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-10258,NWB-LS-1027 CHIPOLA RIVER,River/Stream,NWB-LS-1027,03130012,,,,,30.6912983000,-85.1944564000,,,,GPS-Unspecified,OTHER,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-10266,NWB-LS-1038 CHIPOLA RIVER,River/Stream,NWB-LS-1038,03130012,,,,,30.6996167000,-85.2033842000,,,,GPS-Unspecified,OTHER,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-26763,NW2SL2149,Lake,Chain Pond.  Series of inundated Sand Pits on private prop. Artifical in/outflow,03130012,,,,,30.6278110000,-85.2511220000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-26768,NW2-SL-2146 UNKNOWN,Lake,,03130012,,,,,30.5868827000,-85.2089230000,,,,GPS Code (Pseudo Range) Differential,WGS84,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-27403,NW2-LR-2017 CHIPOLA RIVER,River/Stream,CHIPOLA RIVER,03130012,,,,,30.5816061000,-85.1694180000,,,,GPS Code (Pseudo Range) Differential,WGS84,,,,,,,US,12,013,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-27433,NW2SS2003,River/Stream,NW2-SS-2003 unknown small stream,03130012,,,,,30.6742080000,-85.1594850000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-27453,NW2SS2036,River/Stream,NW2-SS-2036 Dry Creek,03130012,,,,,30.6886850000,-85.2352810000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-38485,Z1LR4007,River/Stream,Z1-LR-4007 Chipola River,03130012,,,,,30.6937500000,-85.1969200000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-39375,Z1-LR-4007R CHIPOLA RIVER,River/Stream,CHIPOLA RIVER,03130012,,,,,30.6937672000,-85.1969250000,,,,GPS Code (Pseudo Range) Differential,WGS84,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-45543,Z1LR8014,River/Stream,Z1-LR-8014 CHIPOLA RIVER,03130012,,,,,30.6946800000,-85.2002700000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-51509,Z1LR11011,River/Stream,Z1-LR-11011,03130012,,,,,30.6562040000,-85.1843230000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-54426,W20150086,Well,,03130012,,,,,30.6862963900,-85.1287811110,0,Unknown,seconds,Interpolation-Photo,NAD83,96,ft,,,Other,UNKWN,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-59760,T198801983,Well,,03130012,,,,,30.6282261000,-85.1554597220,0,Unknown,seconds,Interpolation-Photo,NAD83,59.59,ft,,,Other,UNKWN,US,12,063,,,,,,,,,,STORET
+21FLGW_WQX,FL Dept. of Environmental Protection,21FLGW_WQX-65511,M200300094,Well,,03130012,,,,,30.6360705450,-85.1556530560,0,Unknown,seconds,Interpolation-Photo,NAD83,90,ft,,,Other,UNKWN,US,12,063,,,,,,,,,,STORET
+21FLNWFD,Northwest Florida Water District,21FLNWFD-S184,Rocky Creek,River/Stream,,03130012,,,,,30.6572222,-85.1622222,24000,,,Interpolation-Map,UNKWN,0,ft,,,,Unknown,US,12,063,,,,,,,,,,STORET
+21FLNWFD_WQX,Northwest  Florida Water Management District,21FLNWFD_WQX-S184,Rocky Creek,River/Stream,,03130012,,,,,30.6572222000,-85.1622222000,24000,,,Interpolation-Map,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-304027508512311,Dry Creek at SR 280A (Copied from 21FLWQA),River/Stream,,03130012,,,,,30.6743050000,-85.2086380000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020003,CHIPOLA R HWY 278 BR SE MARI,River/Stream,"SEGMENT 31.2AA      BODY OF WATER: RIVER, CHIPOLA                       
+CHIPOLA RIVER HWY 278 BRIDGE SE OF MARIANNA                             
+
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLA   ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033191
+MINOR BASIN NAME: APALACHICOLA",03130012,,,,,30.6266667000,-85.1658333000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020006,DOLOMITCTL,River/Stream,"Chipola River above Dolomite Inc. Outfall, Control SIte",03130012,,,,,30.6479000000,-85.1769800000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020020,WLMSSLUI10,River/Stream,Williams Slough @ I10 E of Marianna,03130012,,,,,30.6899720000,-85.1162500000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020028,CHIPOLA RIVER BELOW ROCKY CREEK,River/Stream,"SEGMENT 31.2AA      BODY OF WATER'RIVER, CHIPOLA                        
+CHIPOLA RIVER 50 YDS BELOW ROCKY CREEK APPROXIMATELY 1 MILE NORTH OF    
+HWY 278 BRIDGE                                                          
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLA   ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033102
+MINOR BASIN NAME: APALACHICOLA",03130012,,,,,30.6482778000,-85.1788333000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020034,POND EAST SR 71 NW UNITED METALS,Facility Industrial,"SEGMENT 32.2AA      BODY OF WATER'POND WITH DRAINAGE INTO CHIPOLA RIV   
+ER NORTHWEST OF UNITED METALS EAST OR STATE ROAD 71                     
+
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLA   ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033102
+MINOR BASIN NAME: APALACHICOLA",03130012,,,,,30.6833333000,-85.1750000000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020035,STREAM DRAINING UNITED METALS,Facility Industrial,"SEGMENT   .2AA      BODY OF WATER'STREAM CULVERT AT STATE ROAD 71       
+DRAINING UNITED METALS                                                  
+
+
+
+
+
+
+
+
+
+
+
+
+MIGRATED FROM LEGACY STORET AGENCY CODE (21FLA   ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTH-EAST              
+BASIN CODE: 033102
+MINOR BASIN NAME: APALACHICOLA",03130012,,,,,30.6833333000,-85.1752778000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020039,DRY CREEK EAST OF HWY73 SOUTH OF MARIANNA,River/Stream,"MIGRATED FROM LEGACY STORET AGENCY CODE (21FLA   ) ON 17-JUN-99
+MAJOR BASIN NAME: SOUTHEAST               
+BASIN CODE: 
+MINOR BASIN NAME: CHIPOLA RIVER",03130012,,,,,30.6944444000,-85.2388889000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020047,ROCKYCC71,River/Stream,Rocky Cr C71 Jackson Co,03130012,,,,,30.6578610000,-85.1620830000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020056,Chipola River Upstream Restoration Site 1,River/Stream,Near Hoot Owl Bend/Upstream of Reach 1 FWC Restoration Site,03130012,,,,,30.7047100000,-85.2028500000,5000,,,Interpolation-Photo,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020057,Chipola River at Restoration Site 1,River/Stream,,03130012,,,,,30.7011040000,-85.2006690000,5000,,,Interpolation-Photo,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020058,Chipola River Upstream Restoration Site 2,River/Stream,,03130012,,,,,30.6939560000,-85.1970370000,5000,,,Interpolation-Photo,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020059,Chipola River Between Restoation Sites 2 and 3,River/Stream,,03130012,,,,,30.6892400000,-85.1973600000,5000,,,Interpolation-Photo,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020060,CHIPOLA R. 100M BELOW DRY CR.,River/Stream,,03130012,,,,,30.6576944000,-85.1928888000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020061,CHIPOLA R 100M ABV DRY CR.,River/Stream,"MIGRATED FROM LEGACY STORET AGENCY CODE (21FLA   ) ON 17-JUN-99
+MAJOR BASIN NAME: 
+BASIN CODE: 
+MINOR BASIN NAME:",03130012,,,,,30.6590000000,-85.1937222000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020229,DOLOMITTST,River/Stream,Chipola River Below DolomiteInc.Outfall. Test Site,03130012,,,,,30.6464000000,-85.1764200000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020246,MARIANNA1,River/Stream,Marianna Sprayfield SW-1,03130012,,,,,30.6240800000,-85.2382700000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020247,MARIANNA2,River/Stream,Marianna Sprayfield SW-2,03130012,,,,,30.6186600000,-85.2488500000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020248,MARIANNA3,River/Stream,Marianna Sprayfield SW-3,03130012,,,,,30.6146200000,-85.2331600000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020249,MARIANNA4,River/Stream,Marianna Sprayfield SW-4,03130012,,,,,30.6107200000,-85.2363700000,0,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31020330,Chipola River Downstream Restoration Site 3,River/Stream,,03130012,,,,,30.6841000000,-85.1982000000,5000,,,Interpolation-Photo,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLPNS_WQX,"FL Dept. of Environmental Protection, Northwest District",21FLPNS_WQX-31022796,Dry Creek at Hwy 73 (WBID 279),River/Stream,,03130012,,,,,30.6898611000,-85.2362500000,,,,GPS-Unspecified,WGS84,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-303730508509113,Sink Creek at SR 71,River/Stream,6205,03130012,,,,,30.6251389000,-85.1531306000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-303739108509549,Chipola River at SR 278,River/Stream,6200,03130012,,,,,30.6275278000,-85.1652500000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-303740308509540,Trib to Chipola River 50 ft UPS SR 278,River/Stream,6199,03130012,,,,,30.6278470000,-85.1650000000,,,,Interpolation-Satellite,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-303741208509549,Chipola River 100 ft UPS SR 278,River/Stream,6198,03130012,,,,,30.6281140000,-85.1652610000,,,,Interpolation-Satellite,NAD83,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-303926108509447,Rocky Creek at SR 71,River/Stream,6170,03130012,,,,,30.6572500000,-85.1624222000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-304027508512311,Dry Creek at SR 280A,River/Stream,6140,03130012,,,,,30.6743056000,-85.2086389000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+21FLWQA_WQX,FDEP Watershed Assessment Section (WAS),21FLWQA_WQX-304302608512013,Chipola River at SR 280,River/Stream,6000,03130012,,,,,30.7173889000,-85.2003611000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+FWCLOCAL,Florida Fish and Wildlife Conservation Commission (Florida),FWCLOCAL-03130012-CR-50,Chipola River Station 50,River/Stream,Chipola River at Highway 278.,03130012,,,,,30.6270300,-85.1656300,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+FWCLOCAL,Florida Fish and Wildlife Conservation Commission (Florida),FWCLOCAL-03130012-CR-65,Chipola River Station 65,River/Stream,Dry Creek at the Chipola River.,03130012,,,,,30.6572200,-85.1936100,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+FWCLOCAL,Florida Fish and Wildlife Conservation Commission (Florida),FWCLOCAL-03130012-CR-66,Chipola River Station 66,River/Stream,Spellman Springs.,03130012,,,,,30.6327800,-85.1700000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+FWCLOCAL,Florida Fish and Wildlife Conservation Commission (Florida),FWCLOCAL-03130012-CR-67,Chipola River Station 67,River/Stream,Johnston Springs.,03130012,,,,,30.5988900,-85.1669400,,,,Unknown,UNKWN,,,,,,,US,12,013,,,,,,,,,,STORET
+FWCLOCAL,Florida Fish and Wildlife Conservation Commission (Florida),FWCLOCAL-03130012-DC-48,Dry Creek Station 48,River/Stream,Dry Creek at Highway 73 bridge.,03130012,,,,,30.6902200,-85.2358500,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+FWCLOCAL,Florida Fish and Wildlife Conservation Commission (Florida),FWCLOCAL-03130012-RC-49,Rocky Creek Station 49,River/Stream,Rocky Creek at Highway 73 bridge.,03130012,,,,,30.6571900,-85.1619400,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+UWFCEDB_WQX,"Center for Environmental Diagnostics and Bioremediation, University of West Florida",UWFCEDB_WQX-31020011,CHIPOLA R W HWY #71,River/Stream,,03130012,,,,,30.7166667000,-85.2008333000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+UWFCEDB_WQX,"Center for Environmental Diagnostics and Bioremediation, University of West Florida",UWFCEDB_WQX-31020028,CHIPOLA RIVER BELOW ROCKY CREEK,River/Stream,,03130012,,,,,30.6482778000,-85.1788333000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
+UWFCEDB_WQX,"Center for Environmental Diagnostics and Bioremediation, University of West Florida",UWFCEDB_WQX-31020039,DRY CREEK CO.RD. 73 JACKSON CO.,River/Stream,,03130012,,,,,30.6944444000,-85.2388889000,,,,Unknown,UNKWN,,,,,,,US,12,063,,,,,,,,,,STORET
