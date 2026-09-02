@@ -67,7 +67,6 @@ This index is the shortest route from a public claim to the document that suppor
 
 | Claim | Confidence | Evidence | Limitation |
 |---|---|---|---|
-| $9,500 was compelled by a $10,000 administrative ceiling | False for 2024 | §403.121 and [Directive 923](sources/39-FDEP-Directive-923-Settlement-Guidelines-2024.pdf) use $50,000 | Current directive postdates the June order; statute still corrects the ceiling claim |
 | FDEP statewide enforcement remains below historical averages | High as reported trend | [PEER/Waterkeepers source note and official link](sources/40-PEER-Waterkeepers-Florida-2025-Enforcement-Report-Notes.md) | Advocacy report; not site-specific proof |
 | Florida agency pollution-control staffing fell 19% | High as reported | [EIP source note and official link](sources/41-EIP-State-of-Decline-2025-Notes.md) | 2010–2024, not 2010–2025; Florida largest absolute loss, not largest percentage |
 | The Safe Waterways Act would have been a universal pollution-notice law | False/overbroad | [Enrolled HB 165](sources/42-Florida-HB165-2024-Enrolled.pdf) | Focused on bacteria at beach waters/public bathing places |

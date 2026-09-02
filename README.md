@@ -11,7 +11,7 @@ This repository assembles primary records concerning reported fish, reptile, and
 | 3 minutes | [Riverkeeper briefing](Riverkeeper_Briefing.md) | The most important facts, gaps, and immediate asks |
 | 10 minutes | [Claim-by-claim evidence index](Evidence_Index.md) | Each major conclusion, its source, confidence, and limitation |
 | 30+ minutes | [Full deep dive](Chipola_Dolomite_Deep_Dive.md) | Site/company history, permits, violations, monitoring, impairment, and sampling design |
-| A policy/enforcement question | [Enforcement and accountability context](Enforcement_and_Accountability_Context.md) | Penalty-law correction, statewide trends, staffing, campaign finance, contracts, and OFW leverage |
+| A policy/enforcement question | [Enforcement and accountability context](Enforcement_and_Accountability_Context.md) | Consent-order documentation, statewide trends, staffing, campaign finance, contracts, and OFW leverage |
 | A map/photo question | [Photo and site context](Photo_and_Site_Context.md) | Provided aerial screenshots, what they show, and what they cannot prove |
 | A records request to send | [FDEP/FWC/county templates](Records_Request_Template.md) | Narrow incident requests plus technical, enforcement, personnel, contract, and antidegradation records |
 | A source to verify | [Source guide](sources/README.md) | An organized index to 52 numbered primary records, exports, and reproducibility notes |
@@ -25,7 +25,6 @@ This repository assembles primary records concerning reported fish, reptile, and
 - **Arcosa is a documented second source in the same reach.** FDEP records identify two industrial-wastewater outfalls plus a separate stormwater outfall described as discharging to the Chipola. A March 2024 inspection found that Arcosa’s formerly described swallet route had created a natural outfall linked to the river. July 2026 records show flow at industrial D-001 and no reporting at D-002.
 - **Both operations have recent compliance concerns.** Dolomite received a 2024 consent order and an April 2026 river-buffer/BMP warning. Arcosa had a 2023 significant-noncompliance wastewater inspection, a 2024 out-of-compliance inspection, and a February 2026 mining/wetland consent order.
 - **The two distant ambient stations do not clear or implicate the mines.** Their pH, turbidity, DO, phosphorus, and July/October E. coli values were not obvious single-sample violations. Nitrogen was elevated relative to the regional annual threshold, and Magnolia Road’s complete 2025 record includes a May E. coli result above the single-sample maximum—but Magnolia is five straight-line miles upstream of Dolomite.
-- **The $9,500 settlement was not compelled by a $10,000 ceiling.** By 2024, Florida’s total administrative penalty ceiling was **$50,000**. The public order shows two scheduled $4,500 components plus $500 costs; the penalty worksheet and economic-benefit analysis are still needed to determine how much discretion was exercised.
 
 ## Highest-value next steps
 
@@ -33,7 +32,7 @@ This repository assembles primary records concerning reported fish, reptile, and
 2. Demand event-window samples, raw logs, flow/rainfall/pit levels, blasting and spill records, and carcass necropsy/toxicology.
 3. Sample a genuinely mine-independent upstream Chipola control, Dolomite D-001, both sides of Rocky Creek, the inter-mine reach, Arcosa’s identified pathways, and downstream plume stations.
 4. Request a reach-scale cumulative-source analysis and current Outstanding Florida Water antidegradation record for both facilities.
-5. Obtain the Dolomite penalty worksheet/economic-benefit calculation, April 2026 warning closure record, 2012 study chain of command, and Arcosa’s current renewal/modification files.
+5. Obtain the April 2026 warning closure record, 2012 study chain of command, and Arcosa’s current renewal/modification files.
 
 ## Important limitations
 

@@ -2,17 +2,9 @@
 
 This document separates verified institutional context from site-specific proof. Statewide staffing and enforcement trends can help explain regulatory capacity; they do not prove that any individual Dolomite or Arcosa decision was improper.
 
-## The Dolomite settlement was not forced by a $10,000 total ceiling
+## Dolomite’s 2024 settlement and the missing calculation record
 
-The $9,500 Dolomite consent order was not constrained by a $10,000 administrative ceiling. The applicable ceiling in 2024 was higher.
-
-- Section 403.121, Florida Statutes, allowed administrative penalties up to **$50,000 per assessment** by the time of the June 2024 order. The Department retains judicial authority above that amount and for other remedies.
-- FDEP’s current [Directive 923](sources/39-FDEP-Directive-923-Settlement-Guidelines-2024.pdf), effective October 30, 2024, implements the $50,000 cap: when scheduled penalties plus adjustments exceed $50,000, a district may cap at $50,000 for the administrative route or pursue judicial relief. It also contemplates upward adjustments for economic benefit and qualifying noncompliance history, and peer/Deputy Secretary review above $25,000.
-- Older FDEP material showing a $10,000 ceiling predates the statutory increase and should not be used to explain a 2024 order.
-
-The Dolomite order itself assesses $9,000 in civil penalties—two $4,500 scheduled items—plus $500 costs. That shows the schedule used; it does not establish that no discretion existed. To evaluate discretion, request the penalty worksheet, economic-benefit calculation, history adjustment, harm/deviation rating, authorization review, settlement communications, and any reason for omitting or reducing adjustments.
-
-Official source: [§403.121, Florida Statutes](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0403/Sections/0403.121.html).
+The Dolomite order assesses $9,000 in civil penalties—two $4,500 scheduled items—plus $500 in costs. The order documents the settlement amount and required corrective actions, but it does not include the underlying penalty worksheet, economic-benefit calculation, history adjustment, harm/deviation rating, authorization review, or settlement communications. Those records are needed to evaluate proportionality; the amount alone does not establish improper discretion or motive.
 
 ## Statewide enforcement trend
 

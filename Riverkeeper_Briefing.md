@@ -21,7 +21,7 @@ The central technical failure is spatial and temporal: public monitoring does no
 
 Straight-line coordinates are investigative anchors, not surveyed property boundaries.
 
-## Eight findings that matter most
+## Seven findings that matter most
 
 1. **Dolomite’s compliance sample is not an event clearance.** Its July 2026 DMR showed no reported exceedance, but the permit requires only one monthly grab for flow, turbidity, TSS, and pH. It does not routinely monitor DO, temperature, nutrients, metals, fuels, pesticides, cyanotoxins, blasting residues, or whole-effluent toxicity.
 
@@ -37,8 +37,6 @@ Straight-line coordinates are investigative anchors, not surveyed property bound
 
 7. **Ambient results require criteria-aware interpretation.** Magnolia Road’s four 2025 total-nitrogen values produce an annual geometric mean of about **1.88 mg/L**, above the Panhandle West stream threshold of 0.67 mg/L; its May 22 E. coli was **1,553.1 MPN/100 mL**, above the 410 single-sample maximum. Because Magnolia is upstream of both mines, those results show upstream/regional loading and a bacterial episode—not mine causation. The SR 274 October 2023 total nitrogen was 1.58 mg/L, but one grab cannot establish annual nutrient impairment.
 
-8. **The penalty-ceiling narrative needs correction.** Florida law in 2024 allowed administrative assessments up to $50,000. The $9,500 Dolomite settlement was not compelled by a $10,000 total ceiling. The public file does not yet show the penalty worksheet, economic-benefit adjustment, noncompliance-history adjustment, or settlement rationale.
-
 ## What to ask agencies for now
 
 - Incident intake, complaint, hotline, State Watch Office, FWC mortality, photographs, GPS, samples, laboratory QA/QC, necropsy, and interagency records for the actual event window.
@@ -48,7 +46,6 @@ Straight-line coordinates are investigative anchors, not surveyed property bound
 - Arcosa’s pending FL0980722 renewal/modification, the response/closure for the 2023 and 2024 wastewater findings, current D-002 status, and all 2026 consent-order compliance submissions.
 - The Outstanding Florida Water antidegradation demonstrations, baseline/ambient datasets, alternatives analyses, mixing assumptions, and cumulative-source analyses for both facilities.
 - The 2012 Dolomite study’s site-selection emails, raw GPS, alternative reaches, assignment/chain of command, staff qualifications, QA review, and failed downstream Hester-Dendy follow-up.
-- Dolomite’s 2024 penalty worksheet, economic-benefit and noncompliance-history calculations, peer review, and settlement authorization.
 
 The complete send-ready language is in [Records_Request_Template.md](Records_Request_Template.md).
 
