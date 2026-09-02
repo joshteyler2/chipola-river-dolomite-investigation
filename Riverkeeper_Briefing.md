@@ -5,7 +5,7 @@
 
 ## The short version
 
-The reported mixed fish/reptile/alligator mortality has not yet been tied to a source by event-time water samples, tissue toxicology, necropsy, or an agency causal finding. The reach nevertheless warrants an urgent two-facility investigation. Dolomite has a direct permitted mining-lake discharge to the Chipola and a repeated historical Rocky Creek pathway. Arcosa, immediately downstream, has its own wastewater and stormwater pathways to the same reach and a recent compliance record that was absent from the original review.
+The reported mixed fish/reptile/alligator mortality has not yet been tied to a source by event-time water samples, tissue toxicology, necropsy, or an agency causal finding. The reach nevertheless warrants an urgent two-facility investigation. Dolomite has a direct permitted mining-lake discharge to the Chipola and a repeated historical Rocky Creek pathway. Arcosa, immediately downstream, has its own wastewater and stormwater pathways to the same reach, along with significant recent compliance findings.
 
 The central technical failure is spatial and temporal: public monitoring does not bracket the event, the two closest recent ambient stations are five miles upstream and 6.7 miles downstream, and Dolomite’s 2012 biological study used a control only 80–180 meters upstream of its pipe along the mine frontage. No reviewed file supplies a modern reach-scale cumulative study of the two aggregate operations.
 

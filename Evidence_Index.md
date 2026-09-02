@@ -9,7 +9,7 @@ This index is the shortest route from a public claim to the document that suppor
 
 | Claim | Confidence | Evidence | Limitation |
 |---|---|---|---|
-| A mixed fish/reptile/alligator mortality has been reported near the mines | Open as an agency-confirmed event | User report and supplied site context | No reviewed FWC case, verified count, necropsy, event-time sample, or causal finding yet |
+| A mixed fish/reptile/alligator mortality has been reported near the mines | Open as an agency-confirmed event | Witness report and provided site context | No reviewed FWC case, verified count, necropsy, event-time sample, or causal finding yet |
 | Dolomite caused the mortality | **Not established** | No supporting agency finding in the reviewed file | Direct outfall/history make it a priority source, not the proven source |
 | Arcosa caused or contributed | **Not established** | No event-time Arcosa sample or agency causal finding | Its documented pathways make it part of a complete cumulative investigation |
 

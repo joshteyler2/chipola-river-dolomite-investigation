@@ -1,6 +1,6 @@
 # Photo and site context
 
-These screenshots were supplied by the user and prompted a deeper search for neighboring aggregate sources. They are useful visual context but are not surveys, legal parcel maps, time-stamped proof of a discharge, or measurements of the land bench.
+These provided screenshots are useful visual context but are not surveys, legal parcel maps, time-stamped proof of a discharge, or measurements of the land bench.
 
 ## Google Earth overview
 
@@ -16,7 +16,7 @@ That visual concern is independently relevant to FDEP’s April 29, 2026 warning
 
 ![OnX view with scale and downstream Arcosa label](assets/site-context/03-onx-property-context-scale.jpg)
 
-The screenshots identify an aggregate operation labeled Arcosa immediately downstream. That observation has now been corroborated with official records:
+The screenshots identify an aggregate operation labeled Arcosa immediately downstream. Official records independently confirm the facility and its regulated discharge pathways:
 
 - North Florida Rock, now presented publicly as Arcosa Aggregates’ Marianna Pit, is regulated under industrial wastewater permit **FL0980722**, multisector stormwater coverage **FLR05I752**, and mining file **MMR_173508**.
 - The [2019 wastewater permit](sources/33-FDEP-2019-Arcosa-North-Florida-Rock-NPDES-FL0980722.pdf) authorized D-001 to an intermittent creek/swallet route near the Chipola and D-002 to a tributary about 1,500 feet from the Chipola.

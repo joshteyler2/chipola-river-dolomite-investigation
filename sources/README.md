@@ -44,7 +44,7 @@ The source packet is organized by question. Each filename begins with a stable s
 ## Property and maps
 
 - **28:** 2025 FDOR parcel extract used for the biological-site context map. It does not prove historical title.
-- User-supplied map screenshots are in [`../assets/site-context`](../assets/site-context/) with separate hashes and limitations in [Photo_and_Site_Context.md](../Photo_and_Site_Context.md).
+- Provided map screenshots are in [`../assets/site-context`](../assets/site-context/) with separate hashes and limitations in [Photo_and_Site_Context.md](../Photo_and_Site_Context.md).
 
 ## Source types and caution
 

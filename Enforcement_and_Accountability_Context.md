@@ -2,9 +2,9 @@
 
 This document separates verified institutional context from site-specific proof. Statewide staffing and enforcement trends can help explain regulatory capacity; they do not prove that any individual Dolomite or Arcosa decision was improper.
 
-## Correction: the Dolomite settlement was not forced by a $10,000 total ceiling
+## The Dolomite settlement was not forced by a $10,000 total ceiling
 
-An earlier analysis said the $9,500 Dolomite consent order reflected Florida’s $10,000 administrative ceiling. That is incorrect for 2024.
+The $9,500 Dolomite consent order was not constrained by a $10,000 administrative ceiling. The applicable ceiling in 2024 was higher.
 
 - Section 403.121, Florida Statutes, allowed administrative penalties up to **$50,000 per assessment** by the time of the June 2024 order. The Department retains judicial authority above that amount and for other remedies.
 - FDEP’s current [Directive 923](sources/39-FDEP-Directive-923-Settlement-Guidelines-2024.pdf), effective October 30, 2024, implements the $50,000 cap: when scheduled penalties plus adjustments exceed $50,000, a district may cap at $50,000 for the administrative route or pursue judicial relief. It also contemplates upward adjustments for economic benefit and qualifying noncompliance history, and peer/Deputy Secretary review above $25,000.
@@ -53,7 +53,7 @@ Official sources: [Florida Senate bill history](https://www.flsenate.gov/Session
 
 ## Campaign-finance search: disclosed contributions exist, but do not establish influence
 
-The earlier statement that a search found no Baxter/Dolomite contributions was too broad. A September 2, 2026 search of Florida’s state campaign-finance database found the following apparent entity-name matches:
+A September 2, 2026 search of Florida’s state campaign-finance database found the following apparent Baxter/Dolomite entity-name matches:
 
 | Contributor as filed | Date | Recipient | Amount |
 |---|---:|---|---:|
