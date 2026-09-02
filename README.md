@@ -1,42 +1,55 @@
-# Chipola River / Dolomite–Rocky Creek Mine investigation
+# Chipola River aggregate-mine investigation
 
-This repository preserves a September 1, 2026 research review, updated September 2, of reported fish, reptile, and alligator mortality in the Chipola River near the Dolomite/Rocky Creek Mine south of Marianna, Florida.
+**Public briefing and evidence archive — updated September 2, 2026**
 
-## Read the investigation
+This repository assembles primary records concerning reported fish, reptile, and alligator mortality in the Chipola River reach beside the Dolomite/Rocky Creek Mine and immediately upstream of Arcosa Aggregates’ Marianna operation. It is organized for rapid review by Apalachicola Riverkeeper, journalists, agencies, scientists, and residents.
 
-- [Full deep-dive report](Chipola_Dolomite_Deep_Dive.md)
-- [Map of the October 2012 biological control/test sites](assets/2012-bioassessment-sites-map.svg)
-- [Ready-to-send FDEP and FWC public-records requests](Records_Request_Template.md)
-- [Underlying source documents and machine-readable data](sources/)
+## Start here
 
-## Central findings
+| If you have… | Open… | What it provides |
+|---|---|---|
+| 3 minutes | [Riverkeeper briefing](Riverkeeper_Briefing.md) | The most important facts, gaps, and immediate asks |
+| 10 minutes | [Claim-by-claim evidence index](Evidence_Index.md) | Each major conclusion, its source, confidence, and limitation |
+| 30+ minutes | [Full deep dive](Chipola_Dolomite_Deep_Dive.md) | Site/company history, permits, violations, monitoring, impairment, and sampling design |
+| A policy/enforcement question | [Enforcement and accountability context](Enforcement_and_Accountability_Context.md) | Penalty-law correction, statewide trends, staffing, campaign finance, contracts, and OFW leverage |
+| A map/photo question | [Photo and site context](Photo_and_Site_Context.md) | User-supplied aerial screenshots, what they show, and what they cannot prove |
+| A records request to send | [FDEP/FWC/county templates](Records_Request_Template.md) | Narrow incident requests plus technical, enforcement, personnel, contract, and antidegradation records |
+| A source to verify | [Source guide](sources/README.md) | An organized index to 52 numbered primary records, exports, and reproducibility notes |
 
-- The mine has a permitted industrial point source, Outfall D-001, connecting its mining-lake system directly to the Chipola River.
-- No reviewed public record establishes that the mine caused the reported mortality. Event-time sampling and wildlife necropsies are still necessary.
-- The latest public DMR was within its reported limits, but routine monitoring is monthly and omits many parameters relevant to an acute multi-species mortality event.
-- FDEP’s October 2012 investigation was specific to D-001, not mine-wide compliance monitoring. GPS reconstruction shows that its biological “control” was only about 80–180 meters upstream of the pipe, along the mine-side river frontage—not an independent background site above the whole operation.
-- The final 2013 file names three participants and documents one qualified bioassessor, but it does not establish who controlled study design or reach selection. A qualified person’s presence and signatures are not proof that qualified biological staff had decision authority.
-- A separate historical route from the old quarry through Rocky Creek has repeatedly been the subject of unauthorized-discharge findings.
-- Mining and stormwater violations resulted in a 2024 consent order and $9,500 settlement. FDEP then issued a 485.16-acre, 20-year ERP in January 2026.
-- FDEP observed new water-control structures in March 2026 and issued an April warning concerning disturbance within the Chipola River buffer and inadequate BMPs.
-- Florida’s final August 2026 assessment retains the mercury-in-fish-tissue impairment but classifies the earlier biological and total-nitrogen listings as not impaired. Many toxicants remain data-insufficient.
-- The federal Water Quality Portal returns no surface-water results within five miles of D-001 from 2020 forward; the near-field acute-event data gap is substantial.
+## One-minute summary
 
-## Important limitation
+- **Causation is unresolved.** No reviewed agency finding, event-time laboratory result, or necropsy proves that either aggregate operation caused the reported mortality.
+- **Dolomite has a direct point source.** NPDES Outfall D-001 connects the mine-lake system to the Chipola at about **30.647289, -85.176478**. Routine compliance sampling is too narrow and infrequent to exclude many short-lived kill mechanisms.
+- **Rocky Creek is a second historical pathway.** FDEP documented unauthorized or bypassing flow from Dolomite’s old quarry toward Rocky Creek in 1999–2000 and again in 2015. The 2015 record names Dolomite as the facility/permittee; it does not say the property was “released from” Dolomite or Baxter.
+- **The 2012 biological “control” was not above the whole mine.** It was hydrologically upstream of D-001 by about 80–180 meters, but along the mine-side river frontage. It tests the permitted pipe under one set of conditions, not facility-wide or cumulative effects.
+- **Arcosa is a documented second source in the same reach.** FDEP records identify two industrial-wastewater outfalls plus a separate stormwater outfall described as discharging to the Chipola. A March 2024 inspection found that Arcosa’s formerly described swallet route had created a natural outfall linked to the river. July 2026 records show flow at industrial D-001 and no reporting at D-002.
+- **Both operations have recent compliance concerns.** Dolomite received a 2024 consent order and an April 2026 river-buffer/BMP warning. Arcosa had a 2023 significant-noncompliance wastewater inspection, a 2024 out-of-compliance inspection, and a February 2026 mining/wetland consent order.
+- **The two distant ambient stations do not clear or implicate the mines.** Their pH, turbidity, DO, phosphorus, and July/October E. coli values were not obvious single-sample violations. Nitrogen was elevated relative to the regional annual threshold, and Magnolia Road’s complete 2025 record includes a May E. coli result above the single-sample maximum—but Magnolia is five straight-line miles upstream of Dolomite.
+- **The earlier “$9,500 was a $10,000 ceiling” explanation was wrong.** By 2024, Florida’s total administrative penalty ceiling was **$50,000**, not $10,000. The public order shows two scheduled $4,500 components plus $500 costs; the penalty worksheet and economic-benefit analysis are still needed to determine how much discretion was exercised.
 
-This is an evidence review, not a finding of legal liability or environmental causation. It distinguishes documented permit and enforcement history from hypotheses that require field sampling, laboratory analysis, and agency investigation.
+## Highest-value next steps
 
-## Reporting an active event
+1. Obtain the exact first-observed time, GPS, spatial extent, original media, species/counts, and all FWC/FDEP/State Watch Office case numbers.
+2. Demand event-window samples, raw logs, flow/rainfall/pit levels, blasting and spill records, and carcass necropsy/toxicology.
+3. Sample a genuinely mine-independent upstream Chipola control, Dolomite D-001, both sides of Rocky Creek, the inter-mine reach, Arcosa’s identified pathways, and downstream plume stations.
+4. Request a reach-scale cumulative-source analysis and current Outstanding Florida Water antidegradation record for both facilities.
+5. Obtain the Dolomite penalty worksheet/economic-benefit calculation, April 2026 warning closure record, 2012 study chain of command, and Arcosa’s current renewal/modification files.
+
+## Important limitations
+
+This is an evidence review, not a finding of legal liability, corruption, or environmental causation. A permit exceedance is not required for ecological harm to be possible, but a history of violations is also not proof that a facility caused a particular event. Claims supplied by witnesses or participants are labeled as allegations until corroborated by records.
+
+## If mortality is active
 
 - Florida State Watch Office: **800-320-0519**
 - FWC Fish Kill Hotline: **800-636-0511**
 - FWC wildlife disease/mortality: **866-293-9282** or **WildlifeHealthTeam@MyFWC.com**
 - FDEP Northwest District wastewater compliance: **850-595-8300** or **NWD_WastewaterCompliance@FloridaDEP.gov**
 
-Do not handle carcasses or enter suspect water. Preserve exact GPS, original photographs/video, date and time, affected species and counts, and upstream/downstream limits.
+Do not handle carcasses or enter suspect water. Preserve exact GPS, original photographs/video and metadata, date/time, affected species and counts, decomposition stage, and upstream/downstream limits.
 
 ## Source integrity
 
-The `sources` directory contains the FDEP permits, inspections, enforcement records, monitoring reports, statewide assessment workbook, Water Quality Portal exports, and USGS data snapshots used in the review. SHA-256 checksums are provided in [`sources/SHA256SUMS.txt`](sources/SHA256SUMS.txt).
+The [`sources`](sources/) directory preserves agency permits, inspections, enforcement orders, monitoring reports, official document-index exports, ambient data, policy reports, and reproducibility notes. SHA-256 hashes are in [`sources/SHA256SUMS.txt`](sources/SHA256SUMS.txt); the image hashes are in [`assets/site-context/SHA256SUMS.txt`](assets/site-context/SHA256SUMS.txt).
 
-Agency records are reproduced for research, public oversight, and source verification. Third-party names, addresses, signatures, and contact information appearing in agency records were already present in the publicly accessible source files.
+Agency records are reproduced for research, public oversight, and source verification. User-supplied map screenshots are reproduced for site-context commentary; platform imagery, labels, and parcel overlays remain subject to their respective owners’ rights and are not surveys.

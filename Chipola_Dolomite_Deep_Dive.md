@@ -1,9 +1,9 @@
 # Chipola River / Dolomite–Rocky Creek Mine deep dive
 
-**Research date:** September 1, 2026  
+**Research date:** September 1, 2026
 **Last updated:** September 2, 2026<br>
-**Site:** Dolomite, Inc. / Rocky Creek Mine and Mill, 1321 Highway 71, Marianna, Jackson County, Florida  
-**Primary waterbody:** Chipola River, WBID 51D  
+**Site:** Dolomite, Inc. / Rocky Creek Mine and Mill, 1321 Highway 71, Marianna, Jackson County, Florida
+**Primary waterbody:** Chipola River, WBID 51D
 **Primary regulatory identifiers:** NPDES **FL0101192**; Mining/ERP **MMR_215039 / ERP_215039**; EPA FRS **110006778488**
 
 ## Bottom line
@@ -17,6 +17,8 @@ The latest publicly available DMR—July 2026—reported no permit-limit exceeda
 The state’s final 2024–2026 assessment, posted August 17, 2026, changes the older impairment story. In WBID 51D, **mercury in fish tissue remains impaired, Category 4a, with a TMDL complete**. FDEP now classifies the earlier biological and total-nitrogen listings as **Category 2 / not impaired** and asks EPA to remove them from the federal 303(d) list. Many metals and pesticides are Category 3b—**insufficient data**—rather than demonstrated clean. The mercury listing is a chronic fish-consumption issue and is not a plausible explanation by itself for a sudden multi-species mortality event.
 
 The largest information gap is acute-event sampling. The federal Water Quality Portal contains **no surface-water results within five miles of D-001 from 2020 forward**; the only results returned in that radius are groundwater records. The most recent broad chemistry at the actual outfall that I found was an FDEP compliance sample on January 24, 2022. The latest spot inspection at D-001 was December 4, 2023. Neither can resolve a 2026 mortality event.
+
+The user-supplied aerial context also identified **Arcosa Aggregates immediately downstream**. Follow-up in FDEP’s Nexus/OCULUS successor records confirmed that this is not merely a map label: North Florida Rock/Arcosa has industrial wastewater permit **FL0980722**, mining file **MMR_173508**, and multisector stormwater coverage **FLR05I752**. FDEP documented an actual/natural Chipola connection at its industrial D-001 route in March 2024, and the stormwater facility record separately describes an outfall “to CHIPOLA RIVER.” The public file therefore supports a two-operation, cumulative-source investigation. It does not show that Arcosa—or Dolomite—caused the reported mortality.
 
 ## 1. The physical site and its discharge routes
 
@@ -56,6 +58,28 @@ The western/old-quarry side of the property historically drained to Rocky Creek,
 - Current plans label the old Rocky Creek discharge as “eliminated in 2014” and depict three dams separating affected mine/stormwater areas from Rocky Creek. Because the route recurred after earlier correction, those dams and any overflow/bypass points deserve event-window inspection.
 
 This history matters because a mortality plume could reach the Chipola by either the direct D-001 route or Rocky Creek. Sampling only the main culvert would leave a known historical pathway untested.
+
+The **2015 finding was formally a Dolomite Incorporated / FL0101192 compliance matter**. The memo identifies Kathy Sloan as the permittee representative and says well water used for rock washing/classifying flowed to a sedimentation basin, then the inactive quarry, and directly to Rocky Creek while completely bypassing D-002. Baxter is not separately named in that memo. Later orders establish that Baxter entities owned portions of the facility and now identify Baxter’s Asphalt & Concrete as doing business as Dolomite, but the 2015 memo does not establish the precise deed/lease relationship then in force.
+
+Nothing in the reviewed 2015 memo says the “subject property” was **released from** Dolomite or Baxter. “Subject property” is ordinary inspection language for the site under review. The later 2024 consent order and 2026 ERP continue to name the Dolomite/Baxter/trust entities; deeds, archived tax rolls, leases, or operating agreements would be needed to prove a title transfer.
+
+### The adjacent downstream operation: North Florida Rock / Arcosa Aggregates
+
+Arcosa’s Marianna Pit at 5160 Vermont Road adds a second regulated aggregate operation to this reach. Its 2019 industrial permit **FL0980722** authorized:
+
+- **D-001**, initially described as a 6.23 MGD annual-average discharge to an unnamed intermittent creek terminating in a swallet near the Chipola; and
+- **D-002**, a 6.39 MGD annual-average discharge to an unnamed tributary about 1,500 feet from the Chipola.
+
+The same facility has separate multisector stormwater coverage **FLR05I752**; FDEP’s facility record describes its D-001 as **“Outfall to CHIPOLA RIVER.”** The 2019 industrial permit contains a Level I WQBEL and an Outstanding Florida Water antidegradation analysis, so it would be inaccurate to say Arcosa received no water-quality review. The valid gap is that the reviewed record does not supply a current reach-scale field study bracketing both aggregate operations.
+
+Arcosa’s recent compliance record is material:
+
+- A February 21, 2023 inspection rated the facility **significant out of compliance**. FDEP found failure to complete work required under Consent Order 17-1080, piping that bypassed the permitted eight-foot broad-crested weir, chronic pH exceedances, and incorrect dissolved-oxygen reporting.
+- A March 26, 2024 inspection rated the facility out of compliance. D-002 was reported not constructed, the industrial permit renewal was pending, the weir was not operating as described, and FDEP found the previously described swallet was no longer 45 feet from the Chipola and had **“created a natural outfall also linked to the river.”** The inspection also identified four September 2023 days below the DO-saturation value and an unsigned/outdated O&M review.
+- A separate February 4, 2026 consent order, OGC 25-1721, addressed mining/wetland/stormwater violations. It records 0.13 acre of direct mixed-hardwood-wetland impact, 18.77 acres of secondary impact, and 9.47 UMAM functional-loss units; transfer of the offsite mitigation property; an already-constructed modified stormwater design; required cessation of unpermitted wetland mining; purchase of 7.61 forested in-kind and 15.89 wet-prairie/flatwoods out-of-kind mitigation credits; and **$20,500** in penalty/costs.
+- Arcosa’s July 2026 DMR reports D-001 monthly-average flow of **1.73 MGD**, a 100 percent DO-saturation monthly minimum against a 90 percent limit, turbidity average 5.27 NTU/maximum 9.29, pH 7.5–7.9, TSS average 4.4 mg/L/maximum 9, total nitrogen 0.92 mg/L, total phosphorus 0.30 mg/L, and chlorophyll-a 3.2 µg/L. It shows no reported exceedance. D-002 is marked **MNR**, which should be clarified with FDEP rather than interpreted without the reporting code/context.
+
+The U.S. Army Corps’ [2020 public notice](https://www.saj.usace.army.mil/Missions/Regulatory/Public-Notices/Article/2142682/saj-2020-00640-sp-jpf/) for a North Florida Rock expansion identified about 224 acres and proposed wetland impacts adjacent to the Chipola; the Corps said its permit review would consider cumulative effects. That project review is not equivalent to continuous, two-facility event monitoring. The defensible takeaway is that Arcosa must be included in the current source inventory and sampling design, not that Arcosa has been shown to contribute to the mortality.
 
 ## 2. Company and operating history
 
@@ -215,7 +239,7 @@ Several structural features help explain the result:
 
 1. **Regulatory programs are siloed.** Wastewater, mining/reclamation, wetlands/ERP, storage tanks, air, and corporate records are administered separately. A clean EPA ECHO wastewater status therefore does not erase mining or stormwater enforcement.
 2. **Enforcement is commonly aimed at obtaining future compliance.** An after-the-fact permit can regularize work that began without authorization. Once FDEP accepts the engineering design, mitigation, BMPs, and operating conditions, the enforcement case can close while an expanded project proceeds.
-3. **The penalty was formula-driven.** The $9,000 civil component consisted of two $4,500 items, plus $500 in costs. Florida’s administrative schedule assigns set amounts for unauthorized dredging/filling and stormwater violations, including additions for sensitive waters. That differs from calculating the operator’s avoided costs, economic benefit, duration of noncompliance, deterrence value, or maximum judicial liability. See [Florida Statutes §403.121](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499%2F0403%2FSections%2F0403.121.html) and [§403.141](https://www.leg.state.fl.us/statutes/index.cfm/ch0787/index.cfm?App_mode=Display_Statute&URL=0400-0499%2F0403%2FSections%2F0403.141.html).
+3. **The order used scheduled baseline amounts, but a $10,000 total ceiling did not compel the result.** The $9,000 civil component consisted of two $4,500 items, plus $500 in costs. By June 2024, §403.121 allowed total administrative assessments up to **$50,000**, not $10,000. FDEP’s current Directive 923—effective October 30, 2024, after this order—likewise describes a $50,000 administrative cap and potential upward adjustments for economic benefit and qualifying noncompliance history. The public consent order does not include the penalty worksheet, so the record does not show what adjustments were evaluated or why the case settled at the baseline schedule. See [Florida Statutes §403.121](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499%2F0403%2FSections%2F0403.121.html) and [Directive 923](sources/39-FDEP-Directive-923-Settlement-Guidelines-2024.pdf).
 4. **Permit review is primarily forward-looking.** The applicant must provide “reasonable assurance” that the proposed works will meet water-resource and public-interest criteria. FDEP can accept prospective controls even when the applicant previously operated without them. See [Florida Statutes §§373.413–373.414](https://leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399%2F0373%2FSections%2F0373.414.html).
 5. **The mine benefits from its age.** Continuous historic mining and older reclamation planning give parts of the site grandfathered or older-rule treatment that a wholly new mine would not receive. Section 373.414(15), Florida Statutes, preserves older review rules for qualifying continuous, contiguous mining associated with pre-1996 reclamation filings.
 
@@ -228,7 +252,7 @@ The most consequential unresolved permitting question is how FDEP applied Rule 6
 - What record formally closed the April 2026 warning?
 - Why was a modern fifth-year biological and chemical study not required when the wastewater analysis still relies on 2013 research?
 
-The strongest evidence-based characterization is that **FDEP repeatedly converted unauthorized or poorly controlled activity into permitted activity, while the resulting penalties and monitoring intensity do not appear proportionate to the facility’s compliance history or the sensitivity of the Chipola River**. Whether the agency’s technical and legal findings adequately justify that outcome is a records-and-administrative-review question, not something the public-facing permit summaries answer.
+The strongest evidence-based characterization is that **FDEP repeatedly converted unauthorized or poorly controlled activity into permitted activity, while the resulting penalties and monitoring intensity raise proportionality questions given the facility’s compliance history and the sensitivity of the Chipola River**. Whether the agency’s technical and legal findings adequately justify that outcome is a records-and-administrative-review question, not something the public-facing permit summaries answer. A fuller, carefully sourced policy analysis—including statewide enforcement/staffing trends, campaign-finance and public-contract findings, and the OFW issue—is in [Enforcement_and_Accountability_Context.md](Enforcement_and_Accountability_Context.md).
 
 ## 5. What recent sampling actually shows
 
@@ -253,9 +277,23 @@ A Water Quality Portal radius search centered on D-001 returned **no surface-wat
 The closest recent public surface-water context I found is not local enough to decide causation:
 
 - About five straight-line miles upstream near Magnolia Road, station 21FLTLHR_WQX-G2TLHR0016 was sampled July 10, 2025: TSS 6 mg/L, turbidity 1.3 NTU, pH 8.1, DO 9.52 mg/L (123.6% saturation), temperature 28.9°C, conductivity 266.5 µS/cm, nitrate+nitrite 2.2 mg/L, TKN 0.29, ammonia 0.024, total phosphorus 0.024, corrected chlorophyll-a 2.2 µg/L, and E. coli 8.6 MPN/100 mL.
-- Roughly 6.7 straight-line miles downstream at SR 274, station 21FLWQSP_WQX-31020012 was sampled October 25, 2023: DO 8.27 mg/L, pH 8.23, temperature 20.7°C, turbidity 1.6 NTU, TSS 3 mg/L, nitrate+nitrite 1.4 mg/L, TKN 0.18, phosphorus 0.014, corrected chlorophyll-a 0.98 µg/L, and E. coli 23.3 MPN/100 mL. A broad organic panel was mostly non-detect, with some trace estimated detections.
+- Roughly 6.7 straight-line miles downstream at SR 274, station 21FLWQSP_WQX-31020012 was sampled October 25, 2023: DO 8.27 mg/L (92.5% saturation), pH 8.23, temperature 20.7°C, turbidity 1.6 NTU, TSS 3 mg/L, nitrate+nitrite 1.4 mg/L, TKN 0.18, phosphorus 0.014, corrected chlorophyll-a 0.98 µg/L, and E. coli 23.3 MPN/100 mL. A broad organic panel was mostly non-detect, with some trace estimated detections.
 
-These stations establish regional context only. They cannot confirm what happened beside the mine during the reported mortality.
+#### Were those values out of tolerance?
+
+Not in the simple way the two quoted grab samples might suggest. Under the current Class III and Panhandle West criteria:
+
+- pH 8.1 and 8.23 are within the 6.0–8.5 numeric range, although the separate natural-background-change test cannot be evaluated without a paired background.
+- E. coli 8.6 and 23.3 are below the 410 MPN/100 mL single-sample maximum used when fewer than five samples are collected in a month.
+- DO saturations of 123.6 and 92.5 percent are not below the Panhandle West 67-percent daily-average criterion. The Magnolia supersaturation is ecologically noteworthy but not a violation of a minimum-style DO criterion; a single instantaneous reading is also not a daily-average compliance determination.
+- The turbidity values are low, but the Class III criterion is expressed as no more than 29 NTU above natural background, so a formally paired background comparison is absent.
+- TSS has no single, universally applicable Class III numeric threshold that makes 6 or 3 mg/L an obvious excursion here.
+
+Nutrients require the full dataset. Total nitrogen can be reconstructed as nitrate+nitrite plus TKN. At Magnolia, the four 2025 TN values were 1.17, 1.85, 2.31, and 2.49 mg/L, producing an annual geometric mean of about **1.878 mg/L**, above the Panhandle West stream threshold of 0.67 mg/L. Its four TP values produce a geometric mean of about **0.0353 mg/L**, below the 0.06 mg/L threshold. Magnolia also had an E. coli result of **1,553.1 MPN/100 mL on May 22, 2025**, above 410, even though the July result was low.
+
+At SR 274, the October 2023 calculated TN was **1.58 mg/L**, above the regional threshold as an individual value, while TP was 0.014 mg/L. One grab cannot establish the annual nutrient criterion or impairment; the numeric-nutrient rule uses annual sampling sufficiency and biological information. The mostly non-detect/estimated organic screen also cannot be converted into a blanket “no toxicants” finding without compound-specific reporting limits and criteria.
+
+These results identify **upstream/regional nitrogen loading and at least one upstream bacterial episode**. Magnolia is about 5.07 straight-line miles upstream of Dolomite D-001, so the result cannot be attributed to Dolomite. SR 274 is too far downstream and too sparsely sampled to apportion sources. Full calculations and rule links are in [source 43](sources/43-Florida-Water-Quality-Criteria-Notes.md).
 
 ### River flow context
 
@@ -303,7 +341,7 @@ If mortality is continuing or carcasses are still fresh, the first 24 hours are 
 
 1. **Report it and obtain case numbers.** File both an FWC Fish Kill report and an FWC wildlife-mortality report because reptiles/alligators are involved. Call the State Watch Office for suspected pollution reaching the river and notify FDEP Northwest wastewater compliance. Ask each agency to cross-reference the other case numbers.
 2. **Document without handling carcasses.** Record exact GPS, date/time first observed, spatial limits, species/count/size classes, live-animal behavior, gill color if visible without manipulation, decomposition stage, water color/odor/foam/sheen, weather, rain, wind, and current. Preserve original photo/video metadata. Do not enter suspect water, touch carcasses, or eat distressed/dead animals.
-3. **Use a paired spatial design.** At minimum: an upstream control above any mine influence; D-001 before mixing if safely accessible by officials; the D-001 mixing zone; about 100 m and 500 m downstream; Rocky Creek above mine influence; Rocky Creek below the historical mine route; and the Chipola above and below the Rocky Creek confluence. Add plume-directed locations based on conductivity/turbidity/DO reconnaissance.
+3. **Use a paired, two-facility spatial design.** At minimum: a Chipola control above any mine influence; Dolomite D-001 before mixing if safely accessible by officials; its mixing zone and about 100 m/500 m downstream; Rocky Creek above mine influence and below the historical mine route; the Chipola above and below the Rocky Creek confluence; the inter-mine reach; Arcosa industrial D-001 and stormwater D-001; the Arcosa D-002 tributary if active; and downstream plume stations. Add locations based on conductivity/turbidity/DO reconnaissance.
 4. **Measure field parameters immediately.** DO, percent saturation, temperature, pH, specific conductance, oxidation-reduction potential, turbidity, and depth profiles. Repeat before dawn and through a diel cycle if oxygen is suspected. Deploy continuous sondes upstream, at D-001/mixing zone, and downstream.
 5. **Collect laboratory water with defensible QA/QC.** Duplicate samples, field/equipment blanks, correct preservatives/holding times, chain of custody, and an accredited laboratory. Include TSS/settleable solids; ammonia, nitrate/nitrite, TKN/TN, orthophosphate/TP; BOD/COD/TOC; alkalinity/hardness/major ions; dissolved and total metals; oil/grease, TPH, BTEX/VOCs, PAHs/SVOCs; pesticide/herbicide screen; cyanotoxins and phytoplankton; and any blasting-specific analytes selected by an environmental toxicologist.
 6. **Sample sediment and biota.** Collect fresh representative carcasses across taxa under FWC direction for necropsy, histopathology, microbiology, and tissue toxicology. Keep specimens separated and handled under the laboratory’s instructions; do not freeze or chemically preserve specimens unless the receiving lab says to do so. Take co-located sediment where deposition or an oil/chemical plume is evident.
@@ -342,6 +380,9 @@ The fastest path to a defensible source determination is:
 7. The complete 2012/2013 fifth-year study design and raw record—including site-selection communications, GPS/GIS files, alternative sites, contemporaneous organizational charts and position histories, project-lead and decision-authority assignments, sampler roles/qualifications, Point Source Studies Review Committee comments, and the failed downstream Hester-Dendy decision—then require or advocate for a modern study with a mine-independent upstream background reach and suitable replication.
 8. The 2000 enforcement/consent-order and closure record associated with the original Rocky Creek discharge.
 9. Current ownership/operator/assumed-name documents and every permit transfer or responsible-official change.
+10. Arcosa’s current FL0980722 renewal/modification, current D-002 construction/activation status, response/closure records for the 2023 and 2024 wastewater findings, complete FLR05I752 SWPPP/outfall map, and every compliance submission under OGC 25-1721.
+11. Both facilities’ complete Outstanding Florida Water antidegradation records: baseline stations/data, alternatives, groundwater/surface connectivity, storm-event and mixing assumptions, the treatment of the neighboring aggregate operation, and any current cumulative analysis.
+12. Dolomite’s 2024 penalty worksheet, economic-benefit and noncompliance-history adjustments, peer/management review, and settlement communications.
 
 ## 11. Evidence strength and limits
 
@@ -356,6 +397,8 @@ The fastest path to a defensible source determination is:
 - Routine compliance monitoring is too narrow and infrequent to exclude many acute mechanisms.
 - Public near-field ambient sampling is not current enough to resolve a 2026 kill.
 - Final 2026 state assessment retains mercury but delists biology/TN at the state level and leaves many toxicants data-insufficient.
+- Arcosa/North Florida Rock is a second permitted aggregate source in the same reach; FDEP documented a natural D-001 connection to the Chipola in 2024 and separate stormwater coverage identifies an outfall to the river.
+- Arcosa had significant/out-of-compliance wastewater findings in 2023–2024 and a separate February 2026 mining/wetland consent order.
 
 ### Not established
 
@@ -367,6 +410,8 @@ The fastest path to a defensible source determination is:
 - That a compliant monthly DMR represents conditions during an unsampled hour or storm.
 - Who controlled the 2012 study design and reach selection, or that a qualified biological assessor had final authority over those decisions.
 - That any specific experienced Panhandle biologists were displaced from this assignment; the public final report contains no staffing history.
+- That Arcosa contributed to the reported event, that Arcosa D-002 is currently active, or that the two facilities discharged simultaneously.
+- That disclosed campaign contributions, public contracts, staffing trends, or the size of a penalty establish favoritism, corruption, or a quid pro quo.
 
 ## 12. Source packet
 
@@ -400,6 +445,32 @@ The accompanying files preserve the exact agency documents and machine-readable 
 26. [FDEP 2011 Stream Condition Index Primer](sources/26-FDEP-2011-SCI-Primer.pdf)
 27. [2012 biological-site GPS reconstruction](sources/27-2012-Bioassessment-GPS-Reconstruction.csv)
 28. [2025 FDOR parcel extract used for the site map](sources/28-FDOR-2025-Parcel-Extract.geojson)
+29. [Arcosa/North Florida Rock February 2026 consent order, OGC 25-1721](sources/29-FDEP-2026-Arcosa-Consent-Order-OGC-25-1721.pdf)
+30. [FDEP Nexus Arcosa mining-file document index, MMR_173508](sources/30-FDEP-Nexus-Arcosa-MMR-Document-Index.csv)
+31. [FDEP Nexus Arcosa industrial-wastewater document index, FL0980722](sources/31-FDEP-Nexus-Arcosa-FL0980722-Document-Index.csv)
+32. [FDEP Nexus Arcosa stormwater document index, FLR05I752](sources/32-FDEP-Nexus-Arcosa-FLR05I752-Document-Index.csv)
+33. [Arcosa/North Florida Rock 2019 NPDES permit, FL0980722](sources/33-FDEP-2019-Arcosa-North-Florida-Rock-NPDES-FL0980722.pdf)
+34. [Arcosa March 2023 warning and wastewater inspection](sources/34-FDEP-2023-Arcosa-Warning-and-Inspection.pdf)
+35. [Arcosa April 2024 compliance-assistance offer, March inspection, and photo log](sources/35-FDEP-2024-Arcosa-Compliance-Assistance-and-Inspection.pdf)
+36. [Arcosa December 2021 multisector-stormwater acknowledgment, FLR05I752](sources/36-FDEP-2021-Arcosa-MSGP-FLR05I752.pdf)
+37. [Arcosa July 2026 DMR, Part A](sources/37-Arcosa-July-2026-DMR-Part-A.pdf)
+38. [Arcosa July 2026 DMR, Part B daily workbook](sources/38-Arcosa-July-2026-DMR-Part-B.xlsx)
+39. [FDEP Directive 923 settlement/penalty guidelines](sources/39-FDEP-Directive-923-Settlement-Guidelines-2024.pdf)
+40. [PEER/Waterkeepers Florida 2025 enforcement-report notes and official link](sources/40-PEER-Waterkeepers-Florida-2025-Enforcement-Report-Notes.md)
+41. [Environmental Integrity Project 2025 state-staffing report notes and official link](sources/41-EIP-State-of-Decline-2025-Notes.md)
+42. [Enrolled 2024 Safe Waterways Act, CS/CS/HB 165](sources/42-Florida-HB165-2024-Enrolled.pdf)
+43. [Current Florida water-quality criteria and station-calculation notes](sources/43-Florida-Water-Quality-Criteria-Notes.md)
+44. [Florida campaign-finance search notes and limitations](sources/44-Florida-Campaign-Finance-Search-Notes.md)
+45. [Baxter public-contract search notes and limitations](sources/45-Baxter-Public-Contract-Search-Notes.md)
+46. [Magnolia Road Water Quality Portal station metadata](sources/46-WQP-Magnolia-Road-Station-Metadata.csv)
+47. [SR 274 Water Quality Portal station metadata](sources/47-WQP-SR274-Station-Metadata.csv)
+48. [City of Marianna April 2021 Baxter contract-award packet](sources/48-City-of-Marianna-2021-Baxter-Contract-Award.pdf)
+49. [Bear Creek Mitigation Bank ledger identifying Arcosa’s 15.89-credit transaction](sources/49-FDEP-Bear-Creek-Mitigation-Bank-Ledger-2026.pdf)
+50. [FDEP final-order report, January–March 2026](sources/50-FDEP-Final-Order-Report-Q1-2026.pdf)
+51. [FDEP public facility report for Arcosa industrial wastewater permit FL0980722](sources/51-FDEP-Arcosa-FL0980722-Facility-Report.html)
+52. [FDEP public facility report for Arcosa stormwater coverage FLR05I752](sources/52-FDEP-Arcosa-FLR05I752-Facility-Report.html)
+
+For a category-based source index, see [sources/README.md](sources/README.md). For an abbreviated claim/evidence/caveat matrix, see [Evidence_Index.md](Evidence_Index.md).
 
 ## What would sharpen this analysis most
 

@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+
+    <title>
+        Facility Detail Nexus Report
+    </title>
+    <style>
+
+        .scrollStyle {
+            overflow-x: auto;
+        }
+
+        tr:hover td {
+            background-color: #d9edf7;
+            color: #0c199c;
+        }
+
+        #noResults {
+            color: #ff0000;
+            font-size: 20px;
+            font-weight: 300;
+            text-align: center;
+        }
+
+        table.HeaderTable {
+            border-collapse: collapse;
+        }
+
+        table.HeaderTable, th, td {
+            border: none;
+            font-family: "Verdana";
+            font-size: 10.5pt;
+        }
+        table.ContentTable {
+            border-collapse: collapse;
+            border: 1px black;
+        }
+
+        table.ContentTable tr {
+            border: 1px black;
+        }
+
+        table.ContentTable td {
+            border: none;
+            text-align: left;
+            border-top: outset;
+            border-width: thin;
+            color: #0a0100;
+            font-size: small;
+        }
+    </style>
+</head>
+
+
+
+<table class="HeaderTable" style="width: 100%; ">
+    <tr>
+        <td align=left colspan="3" style="font-size: x-large;font-weight: bold; width: 25%"></td>
+        <td align=center colspan="3" style="font-size: large;font-weight: bold; width: 50%">Florida Department of
+            Environmental Protection
+        <td align=left colspan="3" style="font-size: x-large;font-weight: bold; width: 25%"></td>
+        </td>
+    </tr>
+    <tr>
+        <td align=left colspan="3" style="font-size: x-large;font-weight: bold; width: 25%"></td>
+        <td align=center colspan="3" style="font-size: large;font-weight: bold; width: 50%">Facility Detail Nexus Report
+        </td>
+        <td align=left colspan="3" style="font-size: x-large;font-weight: bold; width: 25%"></td>
+    </tr>
+    <tr>
+        <td align=left colspan="3" style="font-size: large;font-weight: bold; width: 20%">
+        </td>
+        <td align=center colspan="3" style="font-size: medium;font-weight: bold; width: 50%">
+            <strong>Report Generated    09/02/2026        </td>
+        <td align=right colspan="3"
+            style="font-size: large;font-weight: bold; width: 30%">
+        </td>
+    </tr>
+</table>
+<br>
+
+<table style="width: 75%">
+
+
+                <tr valign="center">
+                <td style="color:#2e6da4" width="10%" nowrap
+                "><b>Facility:</b></td>
+                <td width="10%" align="left" nowrap>FL0980722</td>
+                <td width="80%" colspan="8" align="left" nowrap>North Florida Rock</td>
+            </tr>
+            <tr valign="center">
+                <td style="color:#2e6da4" width="10%"><b>Status:</b></td>
+                <td width="10%">A</td>
+                <td style="color:#2e6da4" width="10%" align="right"><b>Type: </b></td>
+                <td width="10%">IW</td>
+                <td style="color:#2e6da4" width="10%" align="right"><b>NPDES: </b></td>
+                <td width="10%">Y</td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Begin/End Operation: </b></td>
+                <td width="10%">JAN/DEC</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="10%"><b>Address:</b></td>
+                <td width="90%" colspan="9">5160 Vermont Rd</td>
+            </tr>
+            <!-- ADD IN CASE THERE IS AN ADDRESS2 LINE
+            <%If (rs.Fields("address2").Value <> "") Then%>
+			<tr valign="center">
+				<td width="10%">&nbsp;</td>
+				<td width="90%" colspan="9" title="Facility Address"><%=rs.fields("address2").value%>&nbsp;</td>
+			</tr>
+		<%End If%>-->
+            <tr>
+                <td style="color:#2e6da4" width="10%"></td>
+                <td width="90%" colspan="9">Marianna, FL 32448-7473</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="20%" colspan="2"><b>Nature of Business:</b></td>
+                <td width="80%" colspan="8"></td>
+            </tr>
+            <br><br>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr valign="center">
+                <td width="30%" colspan="2"></td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="middle"><u><b>SIC Codes</b></u></td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="middle"><u><b>Primary Ind</b></u></td>
+                <td width="30%" colspan="3">&nbsp;</td>
+            </tr>
+                            <tr valign="center">
+                    <td width="30%" colspan="2">&nbsp;</td>
+                    <td width="20%" colspan="2" align="middle">1422</td>
+                    <td width="20%" colspan="2" align="middle">Y</td>
+                    <td width="30%" colspan="3">&nbsp;</td>
+                </tr>
+                <!--do i need to put an else here-->
+                            <tr>
+                <td><br><br></td>
+            </tr>
+
+            <tr valign="center">
+                <td style="color:#2e6da4" width="10%"><b>County:</b></td>
+                <td width="20%" colspan="2">32&nbsp;Jackson</td>
+                <td style="color:#2e6da4" width="10%" align="right"><b>Office: </b></td>
+                <td width="10%">NWDP</td>
+                <td style="color:#2e6da4" width="20%" colspan="2"><b>Water Mgt Dist: </b></td>
+                <td width="10%">NWFWMD</td>
+                <td style="color:#2e6da4" width="10%" align="right"><b>Ranking: </b></td>
+                <td width="10%">MI</td>
+            </tr>
+            <tr valign="center">
+                <td style="color:#2e6da4" width="20%" colspan="2" align="left"><b>Permitted Flow:</b></td>
+                <td width="20%"> MGD</td>
+                <td style="color:#2e6da4" width="30%" colspan="2" align="right"><b>Flow Basis: </b>
+                <td width="30%"></td>
+            </tr>
+            <tr valign="center">
+                <td style="color:#2e6da4" width="30%" colspan="3"><b>Treatment Process Summary:</b></td>
+                <td width="70%" colspan="7"></td>
+            </tr>
+            <tr valign="center">
+                <td style="color:#2e6da4" width="30%" colspan="3" align="left"><b>WW Character Summary:</b></td>
+                <td width="70%" colspan="7"></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+
+            <tr>
+                <td style="color:#2e6da4"  width="100%" colspan="10" align="middle"><u><b>Important Parties to Facility</b></u></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+                            <tr>
+                    <td width="100%" colspan="10">&nbsp;</td>
+                </tr>
+                <tr valign="center">
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Affliation Type: </b></td>
+                    <td width="40%" colspan="4">Permittee</td>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Effective Date: </b></td>
+                    <td width="20%" colspan="2">11/16/2022</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Ownership: </b></td>
+                    <td width="80%" colspan="8">PRIVATE</td>
+                </tr>
+                <tr>
+
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Company Name: </b></td>
+                    <td width="80%" colspan="8">North Florida Rock LLC</td>
+                </tr>
+                <tr>
+
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Name: </b></td>
+                    <td width="80%" colspan="8">Danner, Cory </td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Address: </b></td>
+                    <td width="80%" colspan="8">5160 Vermont Rd</td>
+                </tr>
+                <!--todo add address2 if stmt-->
+                <tr>
+                    <td width="20%" colspan="2">&nbsp;</td>
+                    <td width="80%" colspan="8">Marianna, FL 32448-7473</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Business Phone: </b></td>
+                    <td width="80%" colspan="8"  >(850)762-4315</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Fax: </b></td>
+                    <td width="80%" colspan="8"  ></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Email Address: </b></td>
+                    <td width="80%" colspan="8">cory.danner@arcosa.com</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                            <tr>
+                    <td width="100%" colspan="10">&nbsp;</td>
+                </tr>
+                <tr valign="center">
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Affliation Type: </b></td>
+                    <td width="40%" colspan="4">Responsible Official</td>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Effective Date: </b></td>
+                    <td width="20%" colspan="2">11/16/2022</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Ownership: </b></td>
+                    <td width="80%" colspan="8">PRIVATE</td>
+                </tr>
+                <tr>
+
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Company Name: </b></td>
+                    <td width="80%" colspan="8">North Florida Rock LLC</td>
+                </tr>
+                <tr>
+
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Name: </b></td>
+                    <td width="80%" colspan="8">Kipfer, Simeon </td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Address: </b></td>
+                    <td width="80%" colspan="8">5160 Vermont Rd</td>
+                </tr>
+                <!--todo add address2 if stmt-->
+                <tr>
+                    <td width="20%" colspan="2">&nbsp;</td>
+                    <td width="80%" colspan="8">Marianna, FL 32448-7473</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Business Phone: </b></td>
+                    <td width="80%" colspan="8"  >(850)762-4315</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Fax: </b></td>
+                    <td width="80%" colspan="8"  ></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Email Address: </b></td>
+                    <td width="80%" colspan="8">simeon.kipfer@arcosa.com</td>
+                    <td></td>
+                    <td></td>
+                </tr>
+                        <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="100%" colspan="10" align="middle"><u><b>WAFR Facility Status History</b></u></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4"  width="10%" align="middle"><u><b>Status</b></u></td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="middle"><u><b>Start Date</b></u></td>
+                <td style="color:#2e6da4" width="70%" colspan="7"><u><b>Comments</b></u></td>
+            </tr>
+                            <tr>
+                    <td width="10%" align="middle">A</td>
+                    <td  width="20%" colspan="2" align="middle">01/14/2019</td>
+                    <td width="70%" colspan="7">Permit issued</td>
+                </tr>
+                            <tr>
+                    <td width="10%" align="middle">U</td>
+                    <td  width="20%" colspan="2" align="middle">03/16/2017</td>
+                    <td width="70%" colspan="7"></td>
+                </tr>
+                        <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="100%" colspan="10" align="middle"><u><b>Geographical Information</b></u></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+                            <tr>
+                    <td style="color:#2e6da4" width="10%"><b>Directions: </b></td>
+                    <td width="90%" colspan="9"></td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="10%"><b>Object of Interest: </b></td>
+                    <td width="40%" colspan="4">FACIL</td>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right" ><b>Determination Date: </b></td>
+                    <td width="20%" colspan="2">04/14/2017</td>
+                    <td width="10%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="10%"><b>Coord Method: </b></td>
+                    <td width="10%">DPHO</td>
+                    <td style="color:#2e6da4" width="10%" align="right"><b>Datum</b>: </b></td>
+                    <td width="10%">NAD83</td>
+                    <td style="color:#2e6da4" width="10%" align="right"><b>Accuracy: </b></td>
+                    <td width="10%" colspan="5">3</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="10%" nowrap><b>X Coordinate: </b></td>
+                    <td width="20%" colspan="2">288066.551289</td>
+                    <td width="20%" colspan="2">&nbsp;</td>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Y Coordinate: </b></td>
+                    <td width="20%" colspan="2">737160.339732</td>
+                    <td width="10%">&nbsp;</td>
+                </tr>
+                <tr>
+                    <td style="color:#2e6da4" width="10%"><b>Latitude: </b></td>
+                    <td width="20%" colspan="2">30 -38 -14.8504</td>
+                    <td width="20%" colspan="2">&nbsp;</td>
+                    <td style="color:#2e6da4" width="20%" colspan="2" align="right"><b>Longitude: </b></td>
+                    <td width="20%" colspan="2">85 -10 -7.2884</td>
+                    <td width="10%">&nbsp;</td>
+                </tr>
+                        <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="100%" colspan="10" align="middle"><u><b>Sites Associated with this Facility Permitted Reuse/</b></u></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr valign="bottom">
+                <td style="color:#2e6da4" width="8%" ><u><b>Site</b></u></td>
+                <td style="color:#2e6da4" width="8%"><u><b>Site ID</b></u></td>
+                <td style="color:#2e6da4" width="8%"><u><b>Status</b></u></td>
+                <td style="color:#2e6da4" width="20%" ><u><b>Capacity</b></u></td>
+                <td style="color:#2e6da4" width="20%" ><u><b>Disposal</b></u></td>
+                <td style="color:#2e6da4" colspan="5" width="36%" ><u><b>Description</b></u></td>
+            </tr>
+                            <tr valign="center">
+                    <td  width="8%" valign="bottom">166350</td>
+                    <td  width="8%" valign="bottom">D-001</td>
+                    <td  width="8%" valign="bottom">A</td>
+                    <td width="20%" valign="bottom">6.23</td>
+                    <td width="20%" valign="bottom">R</td>
+                    <td width="36%" colspan="5" align="left">un-named intermittent creek that terminates into swallet</td>
+                </tr>
+                            <tr valign="center">
+                    <td  width="8%" valign="bottom">166351</td>
+                    <td  width="8%" valign="bottom">D-002</td>
+                    <td  width="8%" valign="bottom">A</td>
+                    <td width="20%" valign="bottom">6.39</td>
+                    <td width="20%" valign="bottom">R</td>
+                    <td width="36%" colspan="5" align="left">un-named tributary to Chipola River</td>
+                </tr>
+                            <tr valign="center">
+                    <td  width="8%" valign="bottom">166352</td>
+                    <td  width="8%" valign="bottom">EFF-01</td>
+                    <td  width="8%" valign="bottom">A</td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="36%" colspan="5" align="left">effluent from settling pond/inactive pit as settling pond</td>
+                </tr>
+                            <tr valign="center">
+                    <td  width="8%" valign="bottom">166353</td>
+                    <td  width="8%" valign="bottom">EFF-02</td>
+                    <td  width="8%" valign="bottom">A</td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="36%" colspan="5" align="left">effluent from inactive pit as settling pond</td>
+                </tr>
+                            <tr valign="center">
+                    <td  width="8%" valign="bottom">166354</td>
+                    <td  width="8%" valign="bottom">FLW-01</td>
+                    <td  width="8%" valign="bottom">A</td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="36%" colspan="5" align="left">calculated flow to D-001</td>
+                </tr>
+                            <tr valign="center">
+                    <td  width="8%" valign="bottom">166355</td>
+                    <td  width="8%" valign="bottom">FLW-02</td>
+                    <td  width="8%" valign="bottom">A</td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="20%" valign="bottom"></td>
+                    <td width="36%" colspan="5" align="left">calculated flow to D-002</td>
+                </tr>
+                        <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="100%" colspan="10" align="middle"><u><b>Facility Permits</b></u></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="20%" colspan="2"><u><b>Document ID</b></u></td>
+                <td style="color:#2e6da4" width="30%" colspan="3"><u><b>Document Type</b></u></td>
+                <td style="color:#2e6da4" width="10%"><u><b>Status</b></u></td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="middle"><u><b>Issue Date</b></u></td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="middle"><u><b>Effective</b></u></td>
+                <td style="color:#2e6da4" width="20%" colspan="2" align="middle"><u><b>Expiration</b></u></td>
+            </tr>
+                            <tr>
+                    <td width="20%" colspan="2">FL0980722</td>
+                    <td width="30%" colspan="3">W</td>
+                    <td width="10%" >Processing</td>
+                    <td width="20%" colspan="2" align="middle"></td>
+                    <td width="20%" colspan="2" align="middle"></td>
+                    <td width="20%" colspan="2" align="middle"></td>
+                </tr>
+                            <tr>
+                    <td width="20%" colspan="2">FL0980722</td>
+                    <td width="30%" colspan="3">W</td>
+                    <td width="10%" >Active</td>
+                    <td width="20%" colspan="2" align="middle">01/14/2019</td>
+                    <td width="20%" colspan="2" align="middle">01/14/2019</td>
+                    <td width="20%" colspan="2" align="middle">01/13/2024</td>
+                </tr>
+                        <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="100%" colspan="10" align="middle"><u><b>WAFR-PA Projects</b></u></td>
+            </tr>
+            <tr>
+                <td width="100%" colspan="10">&nbsp;</td>
+            </tr>
+            <tr>
+                <td style="color:#2e6da4" width="10%"><u><b>Project</b></u></td>
+                <td style="color:#2e6da4"  width="20%" colspan="4"><u><b>Project Name</b></u></td>
+                <td style="color:#2e6da4"  width="10%"><u><b>Type/Subtype</b></u></td>
+                <td style="color:#2e6da4"  width="20%" align="middle"><u><b>Received</b></u></td>
+                <td style="color:#2e6da4"  width="20%" align="middle"><u><b>Issued</b></u></td>
+                <td style="color:#2e6da4"  width="20%" align="middle"><u><b>Expiration</b></u></td>
+            </tr>
+                            <tr>
+                    <td width="10%">706159</td>
+                    <td width="50%" colspan="4">RENEWAL</td>
+                    <td  width="10%" >IW3S/NR</td>
+                    <td width="10%" align="middle">07/17/2023</td>
+                    <td width="10%" align="middle"></td>
+                    <td width="10%" align="middle"></td>
+                </tr>
+                            <tr>
+                    <td width="10%">498564</td>
+                    <td width="50%" colspan="4">NORTH FLORIDA ROCK</td>
+                    <td  width="10%" >IW3S/NP</td>
+                    <td width="10%" align="middle">03/16/2017</td>
+                    <td width="10%" align="middle">01/14/2019</td>
+                    <td width="10%" align="middle">01/13/2024</td>
+                </tr>
+                        <tr>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+            </tr>
+        </table>
+<br>
