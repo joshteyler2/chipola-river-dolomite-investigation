@@ -14,7 +14,8 @@ This repository preserves a September 1, 2026 research review, updated September
 - The mine has a permitted industrial point source, Outfall D-001, connecting its mining-lake system directly to the Chipola River.
 - No reviewed public record establishes that the mine caused the reported mortality. Event-time sampling and wildlife necropsies are still necessary.
 - The latest public DMR was within its reported limits, but routine monitoring is monthly and omits many parameters relevant to an acute multi-species mortality event.
-- GPS reconstruction shows that FDEP’s October 2012 biological “control” was only about 80–180 meters upstream of D-001, along the mine-side river frontage. It can test the pipe’s incremental effect, but it is not an independent background site above the whole operation; the public OCULUS file does not identify who selected the sites or what alternatives were evaluated.
+- FDEP’s October 2012 investigation was specific to D-001, not mine-wide compliance monitoring. GPS reconstruction shows that its biological “control” was only about 80–180 meters upstream of the pipe, along the mine-side river frontage—not an independent background site above the whole operation.
+- The final 2013 file names three participants and documents one qualified bioassessor, but it does not establish who controlled study design or reach selection. A qualified person’s presence and signatures are not proof that qualified biological staff had decision authority.
 - A separate historical route from the old quarry through Rocky Creek has repeatedly been the subject of unauthorized-discharge findings.
 - Mining and stormwater violations resulted in a 2024 consent order and $9,500 settlement. FDEP then issued a 485.16-acre, 20-year ERP in January 2026.
 - FDEP observed new water-control structures in March 2026 and issued an April warning concerning disturbance within the Chipola River buffer and inadequate BMPs.
