@@ -1,0 +1,7 @@
+record,latitude,longitude,role,straight_line_distance_from_current_D001_m,source_note
+current_D001,30.6472888889,-85.1764777778,current permitted outfall,0.00,"2025 FL0101192 permit: 30°38′50.24″ N / 85°10′35.32″ W"
+control_0m,30.6479000000,-85.1769900000,downstream end of upstream control reach,83.78,"Corrected FYI Part II Appendix E field sketch"
+control_100m,30.6483250000,-85.1778880000,upstream end of upstream control reach,177.41,"Corrected FYI Part II Appendix E field sketch"
+test_0m_sketch,30.6464200000,-85.1764400000,downstream end of test reach,96.68,"Corrected FYI Part II Appendix E field sketch"
+test_field_sheet_dms,30.6465000000,-85.1764388889,test-reach field-sheet point,87.80,"Corrected FYI Part II Appendix E: 30°38′47.4″ N / 85°10′35.18″ W"
+application_D001,30.6505555556,-85.1805555556,2013 application outfall coordinate,533.02,"2013 renewal application: 30°39′02″ N / 85°10′50″ W; conflicts with current permit and field geometry"

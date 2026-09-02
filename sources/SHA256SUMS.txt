@@ -20,3 +20,9 @@ f2e40521024400520656bcceea13ab0acc4be436a2dad48973b0fdc0dd2555dc  sources/17-WQP
 2b3418413f019cc3b542bcc4a0e60b4d420c5692302f99a0586ef9c926a6d1df  sources/20-WQP-Chipola-at-SR274-Since-2023.csv
 b5537546bfc4c10bbd3a968ad720ecbc15fce09ee2eb277131f082b4b449af5b  sources/21-USGS-02358789-Instantaneous-2026-09-01.json
 eeea598d72aa1db906b87b3edb3e3d9ff95e52423564cfa004e388221dd09b36  sources/22-USGS-02358789-Daily-Statistics.rdb
+958990f0896833a53837fa2fd30e6cd876f2b132cfc3329aeae9c005cd9762f5  sources/23-FDEP-2012-FYI-Part-I.pdf
+b4365bec84d1f2483dbf38f34373526769eeab7fc12839e6859b47751adae3b1  sources/24-FDEP-2013-FYI-Part-II-Corrected.pdf
+2413b8d76a0c9ec7e795d9f646604ade981d505e8cc437eb80f86fa87aef8855  sources/25-Dolomite-2013-Permit-Renewal-Application.pdf
+156fc15f813b6d71e0e5c2b85317323919cd33826a73f8d2dfd1513334036260  sources/26-FDEP-2011-SCI-Primer.pdf
+555a23b49489cba50378199d8525293f75d11931a4dbd7d60380193aaaadd73c  sources/27-2012-Bioassessment-GPS-Reconstruction.csv
+be16d0e6d56a29bafd5eae0f8c537f087405590eff920547d4b3e2bd23501165  sources/28-FDOR-2025-Parcel-Extract.geojson

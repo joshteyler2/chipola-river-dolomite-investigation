@@ -35,7 +35,16 @@ For [30 DAYS BEFORE] through [14 DAYS AFTER]:
 1. The operator’s complete response, corrective photographs, inspection, closure determination, and any enforcement record following FDEP’s April 29, 2026 warning concerning the Chipola buffer, access road, sovereign lands, setback, and BMPs.
 2. Current condition/inspection/maintenance records, as-builts, overflow elevations, and repairs for the three dams/barriers isolating the old quarry from Rocky Creek and any historic D-002 or bypass route; include relevant 2014–2016 records.
 3. The complete administrative/consent-order and closure file for the 1999–2003 unpermitted Rocky Creek discharge, including the approximately October 30, 2000 order referenced in compliance history.
-4. The complete raw dataset, field sheets, macroinvertebrate taxonomy/counts, photographs, QA/QC, correspondence, and agency technical review for the 2013 fifth-year interpretive study used in the current FL0101192 water-quality analysis.
+4. The complete administrative, design, field, and review record for the October 15, 2012 fifth-year investigation and March 12, 2013 corrected interpretive report used in the current FL0101192 water-quality analysis, including:
+   - every site-selection/design memorandum, email, map, reconnaissance note, raw GPS/GIS file, alternative location considered, and property, land-use, hydrologic, groundwater, pit-lake, runoff, and other-source information used to choose the control and test reaches;
+   - the complete raw dataset, field sheets, photographs, instrument records, macroinvertebrate taxonomy/counts, periphyton records, laboratory data, chain of custody, and QA/QC package;
+   - the contemporaneous SCI and habitat-assessment qualification, audit/pass, apprenticeship, and training records for Rick Abad, Frank Butera, and Nathan Mulkey, together with field-role assignments and identification/qualifications of every person who selected or approved the sites;
+   - all drafts, comments, change logs, data-usability reviews, and Point Source Studies Review Committee records, including records of Michelle Fish and Mike Tanski;
+   - records concerning the downstream Hester-Dendy sampler found out of water, the decision not to analyze it, and any consideration of replacement sampling or replicate reaches;
+   - records explaining the discrepancy between the 2013 application’s D-001 coordinate (30°39′02″ N, 85°10′50″ W) and the current permit/field-sketch location; and
+   - records defining whether the study was designed only to detect the incremental effect of D-001 or also to represent background above the overall mine/property and cumulative nearby operations.
+
+   Please search OCULUS and any non-OCULUS repositories. Known OCULUS records include Part I **38.235630.1**, corrected Part II **38.235639.1**, and the 2013 renewal application **38.238487.1**; those final documents do not contain the full design/qualification record requested here.
 5. All current ownership/operator, fictitious-name/assumed-name, deed, lease/operator-agreement, permit-transfer, financial-assurance, and responsible-official records explaining the relationship among Dolomite, Inc.; Baxter’s Asphalt & Concrete, Inc. d/b/a Dolomite, Inc.; and Dorothy A. Baxter Trust Estate.
 6. The technical record supporting the May 19, 2026 reduction of hydrologic/groundwater monitoring from quarterly to annual, including staff review of repeated MW-2 iron results.
 

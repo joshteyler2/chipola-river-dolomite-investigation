@@ -1,6 +1,7 @@
 # Chipola River / Dolomite–Rocky Creek Mine deep dive
 
 **Research date:** September 1, 2026  
+**Last updated:** September 2, 2026<br>
 **Site:** Dolomite, Inc. / Rocky Creek Mine and Mill, 1321 Highway 71, Marianna, Jackson County, Florida  
 **Primary waterbody:** Chipola River, WBID 51D  
 **Primary regulatory identifiers:** NPDES **FL0101192**; Mining/ERP **MMR_215039 / ERP_215039**; EPA FRS **110006778488**
@@ -98,13 +99,46 @@ Official historical references: [Florida’s 1968 mineral-producers report](http
 
 The permit’s narrative conditions still prohibit discharges that are acutely toxic, create nuisance conditions, or harm aquatic life. But the routine DMR has no direct measurement for many ways such harm could occur. Whole-effluent toxicity testing is not required, and the permit says groundwater monitoring is not applicable to the wastewater permit. The mining ERP separately established groundwater/pit monitoring.
 
-### The 2013 “fifth-year” study—and its age
+### The 2012 sampling / 2013 report—and what its coordinates actually show
 
-The current water-quality-based effluent-limit analysis still relies heavily on a **2013 fifth-year interpretive study**. The 2025 fact sheet expressly says an updated study has not been conducted since 2013. That is the central research gap because the mine footprint, operating conditions, river condition, and internal structures have changed.
+The current water-quality-based effluent-limit analysis still relies heavily on a study whose field work occurred on **October 15, 2012**. FDEP issued the corrected interpretive report on March 12, 2013. The 2025 analysis describes the sampling as having occurred in February 2013, but the contemporaneous [Part I inspection](sources/23-FDEP-2012-FYI-Part-I.pdf), field sheets, and [corrected Part II report](sources/24-FDEP-2013-FYI-Part-II-Corrected.pdf) establish the October 2012 field date. The 2025 fact sheet also expressly says no updated fifth-year interpretive study has been conducted since then. That is a central research gap because the mine footprint, operating conditions, river condition, and internal structures have changed.
 
-The 2013 study reported no detected organics in effluent, metals below applicable criteria, similar/optimal habitat at control and test sites, compliant field chemistry, low chlorophyll-a, low phosphorus, and no nutrient-enrichment signal. River nitrate/nitrite and total nitrogen were higher than the effluent. Periphyton was similar. Macroinvertebrate evidence was less clean: downstream Hester-Dendy samplers became unusable after the water level changed, dip-net communities were dominated by pollution-tolerant *Hyalella azteca*, and the test reach had fewer taxa and fewer mayflies. The report nevertheless concluded that the collected evidence did not demonstrate adverse effects.
+The corrected report defines a **Control Site 80–180 meters upstream of D-001** and a **Test Site approximately 10–110 meters downstream**. Converting the field-sketch coordinates to decimal degrees and measuring straight-line distance from the current permit coordinate produces this reconstruction:
 
-That study is useful historical baseline information. It is not a substitute for 2026 acute-event sampling, and one nearby facility’s data used as an analogue for some parameters should not be mistaken for direct Dolomite sampling.
+| Study location | Field/permit coordinate | Relationship to current D-001 |
+|---|---:|---|
+| Current D-001 | 30.647289, -85.176478 | Reference point |
+| Control 0 m, downstream end of control reach | 30.647900, -85.176990 | 83.8 m upstream |
+| Control 100 m, upstream end of control reach | 30.648325, -85.177888 | 177.4 m upstream |
+| Test 0 m, downstream end of test reach | 30.646420, -85.176440 | 96.7 m downstream |
+
+![Map of the October 2012 FDEP control and test sites, current D-001, and the 2025 Baxter trust parcel](assets/2012-bioassessment-sites-map.svg)
+
+The control reach itself measures about 98.1 meters end-to-end. Its placement matches the report’s stated 80–180-meter design very closely. But the site map places that reach immediately along the mine’s river frontage beside the large pit/mining lake, rather than above the overall operation. The control field sheet also identifies the predominant land uses as forest/natural, silviculture, and **industry**, with the handwritten description **“Limestone Mine.”** It records moderate local-watershed erosion, moderate local-watershed nonpoint-source pollution, and only a six-meter right-bank riparian-vegetation width.
+
+The [2025 Florida Department of Revenue statewide parcel layer](https://services9.arcgis.com/Gh9awoU677aKree0/arcgis/rest/services/Florida_Statewide_Cadastral/FeatureServer/0) further shows the present D-001 point and the downstream end of the control reach on the parcel now labeled to the Dorothy A. Baxter Trust Estate; the upstream end lies in or along the river channel beside that same frontage. Current parcel data do **not** prove the 2012 title boundary, so this should not be converted into a historical-ownership claim without deeds or archived parcel layers.
+
+The defensible conclusion is therefore precise: **the control was hydrologically upstream of D-001, but it was not an independent background site above the whole mine setting.** It can test the incremental effect of the permitted pipe under the conditions sampled. It cannot isolate cumulative effects from the mine property, groundwater/pit interaction, diffuse runoff, historic pathways, or other nearby aggregate operations. FDEP’s study calls it a “Control Site,” not a facility-wide background station. The separate [2013 renewal application](sources/25-Dolomite-2013-Permit-Renewal-Application.pdf) calls the routine turbidity station SWD-01 an “up-gradient background check point,” but supplies no SWD-01 GPS coordinate; the two stations should not be assumed to be identical.
+
+There is also a coordinate-quality problem to resolve. The renewal application places D-001 at **30°39′02″ N, 85°10′50″ W**, about **533 meters** from the current permitted outfall coordinate and inconsistent with the FYI field sketches. For reconstructing the biological reaches, the current permit coordinate plus the internally consistent field-sketch coordinates are the stronger anchors. FDEP should identify why the application coordinate differs and which historical records used it.
+
+#### What the study found—and what it could not test
+
+The study reported no detected organics in effluent, metals below applicable criteria, similar/optimal habitat at control and test sites, compliant field chemistry, low chlorophyll-a, low phosphorus, and no nutrient-enrichment signal. River nitrate/nitrite and total nitrogen were higher than the effluent. Periphyton was similar. The report concluded that the collected evidence did not demonstrate adverse effects attributable to the effluent.
+
+The macroinvertebrate comparison was narrower than that conclusion may sound. Only the right bank was sampled for the SCI because of the river’s width. The downstream Hester-Dendy sampler was found on the bank, out of water, and was not analyzed, so the study produced no paired control/test quantitative Hester-Dendy result. The remaining dip-net SCI scores were 60 at the control and 61 at the test—a one-point difference, far inside the contemporaneous SCI method’s ±13-point minimum detectable difference. Both communities were dominated by the pollution-tolerant amphipod *Hyalella azteca* at about one-fifth of each sample, while the downstream reach had fewer mayfly taxa and a lower mayfly percentage. Those data are consistent with “no detectable incremental D-001 effect in this one event,” but they are not a facility-wide background study or a cumulative-impact assessment.
+
+#### Sampler qualifications: what is documented and what remains unknown
+
+The field record names **Nathan Mulkey, Frank Butera, and Rick Abad**; Abad signed the physical/chemical and habitat forms. FDEP’s current searchable qualification registry returns pre-event records for Abad—an SCI audit dated September 21, 2009 and habitat-assessment proficiency dated February 15, 2012. It does not return pre-event SCI or habitat-assessment entries for Butera or Mulkey, although a current registry may be incomplete for retired historical records. The [FDEP bioassessment training and testing page](https://floridadep.gov/dear/bioassessment/content/bioassessment-training-evaluation-and-quality-assurance) explains the qualification system.
+
+The contemporaneous [2011 SCI Primer](sources/26-FDEP-2011-SCI-Primer.pdf) says difficult field decisions must be made by an experienced, qualified SCI sampler; novice staff must complete an apprenticeship including at least 12 field visits under experienced staff who passed the SCI audit; and the SCI must be performed by people who passed the proficiency test. It also says point-source studies routinely compare upstream and downstream reaches while controlling habitat and that replicate stations better characterize biological variability.
+
+Public [OCULUS](https://depedms.dep.state.fl.us/) searches under FL0101192 found the final Part I and corrected Part II documents in Discovery/Compliance, monthly discharge reports around the field date in Sampling, and only four records dated 2011–2014 in Permitting/Authorization; Administrative returned none. I found no separately indexed site-selection memorandum, raw GPS package, alternative-site analysis, pre-field QA review, or role/qualification file. That search result is not proof that no such records exist: responsive material may be unindexed, filed under another identifier/profile, retained outside OCULUS, or no longer online.
+
+This record does **not** support saying that an inexperienced sampler acted alone or improperly selected the control: the three-person team included at least one person with documented pre-event qualifications, and the report says district staff and the Point Source Studies Review Committee reviewed it. But the public file does not identify who selected the sites, each person’s field role, whether Mulkey or Butera were acting as trainees, what alternatives were considered, or whether anyone evaluated a truly mine-independent upstream background reach. Those are answerable records questions, not facts to infer from the final report.
+
+This study remains useful historical information. It is not a substitute for 2026 acute-event sampling, and one nearby facility’s data used as an analogue for some parameters should not be mistaken for direct Dolomite sampling.
 
 ### Current DMR status
 
@@ -299,7 +333,7 @@ The fastest path to a defensible source determination is:
 4. The operator’s response, corrective photographs, closure determination, and any follow-up to FDEP’s April 29, 2026 warning.
 5. BMP/SWPPP/SPCC plans and inspection logs; fuel/hydraulic/spill logs; blasting/ANFO inventories and shot logs; pit transfers/pumping records; and contractor daily reports.
 6. Current inspection/maintenance status of the three Rocky Creek dams and every overflow/bypass point, plus 2014–2016 construction/as-built records.
-7. The complete raw 2013 fifth-year study dataset, field sheets, macroinvertebrate counts, QA/QC, and agency review; then require or advocate for a modern repeat study.
+7. The complete 2012/2013 fifth-year study design and raw record—including site-selection communications, GPS/GIS files, alternative sites, sampler roles/qualifications, Point Source Studies Review Committee comments, and the failed downstream Hester-Dendy decision—then require or advocate for a modern study with a mine-independent upstream background reach and suitable replication.
 8. The 2000 enforcement/consent-order and closure record associated with the original Rocky Creek discharge.
 9. Current ownership/operator/assumed-name documents and every permit transfer or responsible-official change.
 
@@ -352,6 +386,12 @@ The accompanying files preserve the exact agency documents and machine-readable 
 20. [2023+ Chipola at SR 274 results](sources/20-WQP-Chipola-at-SR274-Since-2023.csv)
 21. [USGS instantaneous gage snapshot](sources/21-USGS-02358789-Instantaneous-2026-09-01.json)
 22. [USGS daily-flow statistics](sources/22-USGS-02358789-Daily-Statistics.rdb)
+23. [October 2012 fifth-year inspection, Part I](sources/23-FDEP-2012-FYI-Part-I.pdf)
+24. [March 2013 corrected fifth-year interpretive report, Part II](sources/24-FDEP-2013-FYI-Part-II-Corrected.pdf)
+25. [May 2013 permit-renewal application](sources/25-Dolomite-2013-Permit-Renewal-Application.pdf)
+26. [FDEP 2011 Stream Condition Index Primer](sources/26-FDEP-2011-SCI-Primer.pdf)
+27. [2012 biological-site GPS reconstruction](sources/27-2012-Bioassessment-GPS-Reconstruction.csv)
+28. [2025 FDOR parcel extract used for the site map](sources/28-FDOR-2025-Parcel-Extract.geojson)
 
 ## What would sharpen this analysis most
 
